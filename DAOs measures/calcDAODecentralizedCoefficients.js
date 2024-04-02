@@ -65,7 +65,7 @@ async function filterEOAs(entities) {
   const filtered = [];
   for (const entity of entities) {
     if (entity.isEOA) {
-      console.log('MATCH!!!', entity);
+      console.log('Adress already checked: ', entity);
       filtered.push(entity);
     } else if (await isEOA(entity.id)) {
       filtered.push(entity);
