@@ -1,0 +1,5 @@
+.idea
+node_modules
+.env
+DS_store
+accountsData-23.04.json
