@@ -3,12 +3,18 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
     "@types/sqlite3": "^3.1.11",
     "dotenv": "^16.4.5",
     "graphql": "^16.9.0",
-    "graphql-request": "^7.1.0",
+    "graphql-request": "^7.1.2",
     "sqlite": "^5.1.1",
-    "sqlite3": "^5.1.7"
+    "sqlite3": "^5.1.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2"
   }
 }
