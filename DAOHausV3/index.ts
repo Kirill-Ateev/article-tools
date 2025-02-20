@@ -17,24 +17,47 @@ import { MyDatabase } from './src/db/database';
 configDotenv();
 
 const client = new GraphQLClient(
-  `https://gateway.thegraph.com/api/${process.env.THE_GRAPH_API_KEY}/subgraphs/id/HouDe2pTdyKM9CTG1aodnPPPhm7U148BCH7eJ4HHwpdQ`
+  `https://gateway.thegraph.com/api/${process.env.THE_GRAPH_API_KEY}/subgraphs/id/6x9FK3iuhVFaH9sZ39m8bKB5eckax8sjxooBPNKWWK8r`
 );
 
-async function fetchData(query: string, variables: Record<string, any>) {
-  return await client.request(query, variables);
+// Добавить retry при errors
+async function fetchData(
+  query: string,
+  variables: Record<string, any>,
+  retries = 1000,
+  delay = 1000
+): Promise<any> {
+  // console.log(query, variables);
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      return await client.request(query, variables);
+    } catch (error) {
+      console.error(`Attempt ${attempt} failed:`, error);
+      if (attempt < retries) {
+        await new Promise((res) => setTimeout(res, delay)); // Delay before retry
+      } else {
+        throw new Error(`Failed after ${retries} attempts: ${error.message}`);
+      }
+    }
+  }
 }
 
-async function fetchAllEntities(query, entity: string, first = 1000) {
+async function fetchAllEntities(query, entity: string, first = 100) {
   let skip = 0;
   let results = [];
   let hasMore = true;
 
   while (hasMore) {
     const data: any = await fetchData(query, { first, skip });
+    console.log(entity, data[entity].length, first, skip);
     const entitiesData: never[] = data[entity];
     results.push(...entitiesData);
-    skip += data.length;
-    hasMore = data.length === first;
+    if (data[entity].length < first) {
+      hasMore = false;
+      return results;
+    } else {
+      skip = skip + data[entity].length;
+    }
   }
 
   return results;

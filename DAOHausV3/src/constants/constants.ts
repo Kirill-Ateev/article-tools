@@ -338,7 +338,7 @@ type Vault @entity {
 }`;
 
 export const daoQuery = gql`
-  query {
+  query ($first: Int!, $skip: Int!) {
     daos(first: $first, skip: $skip) {
       id
       createdAt
@@ -380,7 +380,7 @@ export const daoQuery = gql`
 `;
 
 export const proposalQuery = gql`
-  query {
+  query ($first: Int!, $skip: Int!) {
     proposals(first: $first, skip: $skip) {
       id
       createdAt
@@ -453,7 +453,7 @@ export const proposalQuery = gql`
 `;
 
 export const votesQuery = gql`
-  query {
+  query ($first: Int!, $skip: Int!) {
     votes(first: $first, skip: $skip) {
       id
       txHash
@@ -472,7 +472,7 @@ export const votesQuery = gql`
 `;
 
 export const rageQuitsQuery = gql`
-  query {
+  query ($first: Int!, $skip: Int!) {
     rageQuits(first: $first, skip: $skip) {
       id
       createdAt
@@ -492,7 +492,7 @@ export const rageQuitsQuery = gql`
 `;
 
 export const shamansQuery = gql`
-  query {
+  query ($first: Int!, $skip: Int!) {
     shamans(first: $first, skip: $skip) {
       id
       createdAt
@@ -506,7 +506,7 @@ export const shamansQuery = gql`
 `;
 
 export const eventTransactionsQuery = gql`
-  query {
+  query ($first: Int!, $skip: Int!) {
     eventTransactions(first: $first, skip: $skip) {
       id
       createdAt
@@ -518,7 +518,7 @@ export const eventTransactionsQuery = gql`
   }
 `;
 export const tokenLookupsQuery = gql`
-  query {
+  query ($first: Int!, $skip: Int!) {
     tokenLookups(first: $first, skip: $skip) {
       id
       dao
@@ -527,7 +527,7 @@ export const tokenLookupsQuery = gql`
 `;
 
 export const vaultsQuery = gql`
-  query {
+  query ($first: Int!, $skip: Int!) {
     vaults(first: $first, skip: $skip) {
       id
       createdAt
@@ -543,7 +543,7 @@ export const vaultsQuery = gql`
 `;
 
 export const membersQuery = gql`
-  query {
+  query ($first: Int!, $skip: Int!) {
     members(first: $first, skip: $skip) {
       id
       createdAt
@@ -567,7 +567,7 @@ export const membersQuery = gql`
 `;
 
 export const recordsQuery = gql`
-  query {
+  query ($first: Int!, $skip: Int!) {
     records(first: $first, skip: $skip) {
       id
       createdAt
