@@ -363,8 +363,8 @@ class DAOSimulation {
 
     // Расчет полезности результата
     const outcomeUtility = passed
-      ? proposal.expectedUtility
-      : -proposal.expectedUtility;
+      ? proposal.expectedUtility * this.totalTokens * 0.01 // 1% от общего капитала
+      : -proposal.expectedUtility * this.totalTokens * 0.005;
 
     const outcome: any = {
       passed,
