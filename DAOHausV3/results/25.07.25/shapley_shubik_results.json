@@ -1,0 +1,5443 @@
+{
+  "0x0226f84bee9571d7e9c3d2b8808a77c0d2d9307a": [
+    {
+      "memberAddress": "0x9ac9c636404c8d46d9eb966d7179983ba5a3941a",
+      "index": "0.5",
+      "daoId": "0x0226f84bee9571d7e9c3d2b8808a77c0d2d9307a"
+    },
+    {
+      "memberAddress": "0xe29de8c6088d241647e6456f8b4755a3d0f7c8b1",
+      "index": "0.5",
+      "daoId": "0x0226f84bee9571d7e9c3d2b8808a77c0d2d9307a"
+    }
+  ],
+  "0x05911b89aa144ec10983209a02582e678255eae7": [
+    {
+      "memberAddress": "0x843c9002c4caa1c96a8a2df5ccd78267d8046841",
+      "index": "0",
+      "daoId": "0x05911b89aa144ec10983209a02582e678255eae7"
+    },
+    {
+      "memberAddress": "0xe68967c95f5a9bccfdd711a2cbc23ec958f147ef",
+      "index": "0",
+      "daoId": "0x05911b89aa144ec10983209a02582e678255eae7"
+    }
+  ],
+  "0x05920b7e6c5e6346798dedad8561f5da6fe20d80": [
+    {
+      "memberAddress": "0x651b6332df533708ae4a25df73b93927addd9083",
+      "index": "1",
+      "daoId": "0x05920b7e6c5e6346798dedad8561f5da6fe20d80"
+    }
+  ],
+  "0x0816c7c48d9047f4b527d05dae3f72872af1728e": [
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0",
+      "daoId": "0x0816c7c48d9047f4b527d05dae3f72872af1728e"
+    }
+  ],
+  "0x0905f87cb6e401dac0e76314c0bc0575c1007a19": [
+    {
+      "memberAddress": "0xaf63bc6888716cd774ced9b16db6110171cea968",
+      "index": "1",
+      "daoId": "0x0905f87cb6e401dac0e76314c0bc0575c1007a19"
+    }
+  ],
+  "0x09ad6291ed483d37e44866f483e3135737a1c51a": [
+    {
+      "memberAddress": "0x914aa366fc6af1cef6d8b98dd24b2842e0d14c39",
+      "index": "0.5",
+      "daoId": "0x09ad6291ed483d37e44866f483e3135737a1c51a"
+    },
+    {
+      "memberAddress": "0x1160ac664e1211cd6815747bdee0fc8644de7cb1",
+      "index": "0.5",
+      "daoId": "0x09ad6291ed483d37e44866f483e3135737a1c51a"
+    },
+    {
+      "memberAddress": "0x13c90d4be279ec4c8b554ea22f08522fe8a9f153",
+      "index": "0",
+      "daoId": "0x09ad6291ed483d37e44866f483e3135737a1c51a"
+    }
+  ],
+  "0x0a0e872503d23a518e9f4a68466101259ad1bad3": [
+    {
+      "memberAddress": "0x07fda67513ec0897866098a11dc3858089d4a505",
+      "index": "0.33333333333333333333",
+      "daoId": "0x0a0e872503d23a518e9f4a68466101259ad1bad3"
+    },
+    {
+      "memberAddress": "0x15076882d968c57deb4d4dd805f536563ea74852",
+      "index": "0.33333333333333333333",
+      "daoId": "0x0a0e872503d23a518e9f4a68466101259ad1bad3"
+    },
+    {
+      "memberAddress": "0x31d003f229fabc4dc9404dffe3fec2698cc8f0ab",
+      "index": "0.33333333333333333333",
+      "daoId": "0x0a0e872503d23a518e9f4a68466101259ad1bad3"
+    }
+  ],
+  "0x0cd73b05dc0de1586d0a3b9c7fbc7d33c268e57a": [
+    {
+      "memberAddress": "0x74fefebfc416383445859f0a2037317f65baef65",
+      "index": "0.5",
+      "daoId": "0x0cd73b05dc0de1586d0a3b9c7fbc7d33c268e57a"
+    },
+    {
+      "memberAddress": "0x82d87a4995ec281f4d82b511fd7d0f8b636693fa",
+      "index": "0.5",
+      "daoId": "0x0cd73b05dc0de1586d0a3b9c7fbc7d33c268e57a"
+    }
+  ],
+  "0x0defe8e3f41ae8a844f2bce0325c53a130e39cf7": [
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0",
+      "daoId": "0x0defe8e3f41ae8a844f2bce0325c53a130e39cf7"
+    },
+    {
+      "memberAddress": "0x2a8fe25896fcce82c49c2db923abfa4198ad3394",
+      "index": "0",
+      "daoId": "0x0defe8e3f41ae8a844f2bce0325c53a130e39cf7"
+    },
+    {
+      "memberAddress": "0x57abda4ee50bb3079a556c878b2c345310057569",
+      "index": "0",
+      "daoId": "0x0defe8e3f41ae8a844f2bce0325c53a130e39cf7"
+    },
+    {
+      "memberAddress": "0x6f97da40d29ae94002ca2a62eb472e8ba583fa24",
+      "index": "0",
+      "daoId": "0x0defe8e3f41ae8a844f2bce0325c53a130e39cf7"
+    },
+    {
+      "memberAddress": "0xbaf6e57a3940898fd21076b139d4ab231dcbbc5f",
+      "index": "0",
+      "daoId": "0x0defe8e3f41ae8a844f2bce0325c53a130e39cf7"
+    },
+    {
+      "memberAddress": "0xde6bcde54cf040088607199fc541f013ba53c21e",
+      "index": "0",
+      "daoId": "0x0defe8e3f41ae8a844f2bce0325c53a130e39cf7"
+    }
+  ],
+  "0x0f85fdf63fbebcf10ee14b9697b806385aecb778": [
+    {
+      "memberAddress": "0x2dc794d790115236b135ce705fc9e123e9ea0f14",
+      "index": "0",
+      "daoId": "0x0f85fdf63fbebcf10ee14b9697b806385aecb778"
+    }
+  ],
+  "0x145e614201b74141e4246759b90d3f9fafd54c56": [
+    {
+      "memberAddress": "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "index": "0",
+      "daoId": "0x145e614201b74141e4246759b90d3f9fafd54c56"
+    },
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0",
+      "daoId": "0x145e614201b74141e4246759b90d3f9fafd54c56"
+    }
+  ],
+  "0x1c207262275b203eab914330abd947cb787ad3a1": [
+    {
+      "memberAddress": "0x1c9f765c579f94f6502acd9fc356171d85a1f8d0",
+      "index": "0.01566000000000000031",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x2606cb984b962ad4aa1ef00f9af9b654b435ad44",
+      "index": "0.01597000000000000156",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x5eba987f55dcaaacb4ed1b06c5dddc3b5f25069b",
+      "index": "0.01511000000000000017",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x051ac9d0442d5c689e6a301bebc82821f42fc93a",
+      "index": "0.01663999999999999854",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x1474ba7f53dcd016a156e64e7d40a1543df58acd",
+      "index": "0.01512999999999999935",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x223da87421786dd8960bf2350e6c499bebca64d1",
+      "index": "0.01587999999999999828",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x2619c649d98ddddbb0b218823354fe1d41bf5ce0",
+      "index": "0.01533999999999999947",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x26e3a9c84fdb9b7fe33dfd5e8d273d016e4e4fb6",
+      "index": "0.01569999999999999868",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x28ddb1f987f1d433eb82eef644b006741977f456",
+      "index": "0.01601999999999999952",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x2bf034eccebc8cd60dab9c249b6c2996dcb7d8ec",
+      "index": "0.01590000000000000094",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x303a6b190768f91c5823d24c267fe1778ac6c56a",
+      "index": "0.01623000000000000137",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x392214b7643bfd9aaf8c0475289f77847401ed90",
+      "index": "0.01565000000000000072",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x3b36cb2c6826349eec1f717417f47c06cb70b7ea",
+      "index": "0.01546999999999999938",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x3c617d3f4c15bc9b10ffebc4faad8bf3379f8ca9",
+      "index": "0.01593999999999999931",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x3c635a9a134ca5282ff7aefd2b349a094bb29dc1",
+      "index": "0.01542999999999999927",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x3c9613617385da2fbdf043ed45a7e4a8c8bc861a",
+      "index": "0.01573000000000000093",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x41952afbdb72ed6d83c67194375a8d45854f39d1",
+      "index": "0.01614000000000000157",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x4541732c37c9cdaba422d6b408b54edfe9414e81",
+      "index": "0.01550999999999999948",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x459639648f97f60385ac6cfff32971b75e188d4b",
+      "index": "0.01600999999999999993",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x47a9a2fe26f9ec391cfc6b44f0a104c75f6bbc71",
+      "index": "0.01620999999999999872",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x4ef54ea3c78d1d1cc10fdf4ca04ffd6a54077259",
+      "index": "0.01569999999999999868",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x503a5161d1c5d9d82bf35a4c80da0c3ad72d9244",
+      "index": "0.01578999999999999848",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x597f1ed7b49e6b57e095e5f7a76c38bbb1666421",
+      "index": "0.01600999999999999993",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x5d5d4d04b70bfe49ad7aac8c4454536070daf180",
+      "index": "0.01606000000000000136",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x5ee7ef02652b50edbca78f1fee4bd0ec1e2f2151",
+      "index": "0.01561000000000000061",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x5fa5129d1ca28e108f990fe9b588f0a256c07ab8",
+      "index": "0.01592999999999999972",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x6433a7994681f87e717dc761490be9553713546f",
+      "index": "0.01595999999999999849",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x69a9e35b769a7b8bad41ff5421e5c365632830a7",
+      "index": "0.01626999999999999974",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x6a33167375241c4c7aac5ab60f15cc80caf74791",
+      "index": "0.01553999999999999999",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x7383db2efdb0cbdb37ef60672dd95ef490bcb573",
+      "index": "0.01524999999999999967",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x73932cc65df8865b10f339d6ef9de5e4830c14ff",
+      "index": "0.01627999999999999933",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x75ac647cd0c3cfc67c13988595ac5e677dd5734b",
+      "index": "0.01680999999999999855",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x78ec73423b222cb225549bab0d0a812d58808ffd",
+      "index": "0.01572000000000000133",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x792d64733171e5dbd8c5bcfddacb4ed445d58e4f",
+      "index": "0.01572000000000000133",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x7ef7120d7116e77cddbbc70e83db8f1914db5b63",
+      "index": "0.01554999999999999959",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x81865ebc7694dfba6608f6503bba50abb04644b4",
+      "index": "0.01617000000000000035",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x862126f33b8ff9db8e7061a624e3c3a6cb5ade59",
+      "index": "0.01609000000000000014",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x87690be28b65f13394741c2c2be5a6bdb0505039",
+      "index": "0.01580000000000000154",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x87822633bbebedde51cfa82110ccf5079f88f807",
+      "index": "0.01615000000000000116",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x8a4315279e7a53933f9e476aa123dc705d7a4bd3",
+      "index": "0.01703000000000000000",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0x9fadfd0df2b4ef8ed46e780f5e366bfec0af9520",
+      "index": "0.01545000000000000019",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xaedea576fbff23067694bb95722330d94d4f4d90",
+      "index": "0.01644999999999999934",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xb063d25968b3470f584833a9bfa1f684b9950032",
+      "index": "0.01558999999999999969",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xb1a87b31d3c13c47a1dac755d48845abe49cfe2d",
+      "index": "0.01582000000000000073",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xba553b13fdb431578397df9d6b17ac5d132a91fe",
+      "index": "0.01578999999999999848",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xc0163e58648b247c143023cfb26c2baa42c9d9a9",
+      "index": "0.01584999999999999951",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xc9d20533c5b8a79526377e5d05dc79b87b28e92f",
+      "index": "0.01598000000000000115",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xcca9a24c13b3c84e84643cb2cfa6b2402ff870e8",
+      "index": "0.01653999999999999915",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xcce1c6961cad8250a1c38b9fe6277dda31443114",
+      "index": "0.01558999999999999969",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xce8df60d32624f40d1a8d9f8387a2e8b431d4aa6",
+      "index": "0.01555999999999999918",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xcff878b6673bcbc3525e2c6432d2e9698738ef34",
+      "index": "0.01520999999999999956",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xd1d8e452a864388280b714537cbead6ff9e28530",
+      "index": "0.01494999999999999975",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xd3bce6934f7433946a416a0344e64a835d957d73",
+      "index": "0.01575999999999999970",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xd5fca153769847ef9c3dea17ac0166209dee11f7",
+      "index": "0.01668000000000000038",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xe008a5cd8a80bb1e0dacc2d587e00743e943afde",
+      "index": "0.01570999999999999827",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xe0802cf223a05a14408ad44e7f878d21408fb04c",
+      "index": "0.01545999999999999978",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xe5c52c80749cf06ff8916b041cc6ca8be4feb0cd",
+      "index": "0.01564000000000000112",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xe95e03b0996ba4a193cf9ba114610cd48b9b3975",
+      "index": "0.01708000000000000143",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xed2aeaeac44036a35e36ccd7397d44ea70bdd73e",
+      "index": "0.01564000000000000112",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xf1da6a526dd3445f41464e9274352f30f8aed060",
+      "index": "0.01612999999999999851",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xf491d276f8d7d8be19446ca5c7f63bb1ecf539a5",
+      "index": "0.01618999999999999953",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xf95f8038eb7874cde88a0a9a8270fcc94f5c226e",
+      "index": "0.01565000000000000072",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    },
+    {
+      "memberAddress": "0xff05539c6cdded9e17a39d2e4b69921e7df0f3cd",
+      "index": "0.01617000000000000035",
+      "daoId": "0x1c207262275b203eab914330abd947cb787ad3a1"
+    }
+  ],
+  "0x1cf78054f32004d08955f75c60f3af81688bd2f0": [
+    {
+      "memberAddress": "0x93725b56949e8f34feaf8e1a303abcc69b329950",
+      "index": "0",
+      "daoId": "0x1cf78054f32004d08955f75c60f3af81688bd2f0"
+    }
+  ],
+  "0x1d7274755e093600687579cbd6bcbda1bb6515da": [
+    {
+      "memberAddress": "0x6b40a150ad283cf273905fab386dea0423d687c3",
+      "index": "0",
+      "daoId": "0x1d7274755e093600687579cbd6bcbda1bb6515da"
+    }
+  ],
+  "0x1e0af58e5b4c942cfee78d2deb5db4a7781a0a9b": [
+    {
+      "memberAddress": "0x9ac9c636404c8d46d9eb966d7179983ba5a3941a",
+      "index": "1",
+      "daoId": "0x1e0af58e5b4c942cfee78d2deb5db4a7781a0a9b"
+    }
+  ],
+  "0x1e499adbaf07d7b955b9e30ff3c1ec1884960ae6": [
+    {
+      "memberAddress": "0x51d7bee7ee3f57a4efd83bc8f05e7815b802c1a8",
+      "index": "1",
+      "daoId": "0x1e499adbaf07d7b955b9e30ff3c1ec1884960ae6"
+    }
+  ],
+  "0x1e90f58b23fe48b70689ff275b4274c1eaffc0a7": [
+    {
+      "memberAddress": "0x22a3660533c3d0d6b060989b96496d5f139c33cd",
+      "index": "0",
+      "daoId": "0x1e90f58b23fe48b70689ff275b4274c1eaffc0a7"
+    },
+    {
+      "memberAddress": "0x800d7803bba5e7bf7e5ba90f8611bd25f3d03b2a",
+      "index": "0",
+      "daoId": "0x1e90f58b23fe48b70689ff275b4274c1eaffc0a7"
+    }
+  ],
+  "0x1f7af8f75d13568f4c8f9b318cb16a641239dcc2": [
+    {
+      "memberAddress": "0x27773b203954fbbb3e98dfa1a85a99e1c2f40f56",
+      "index": "0.33333333333333333333",
+      "daoId": "0x1f7af8f75d13568f4c8f9b318cb16a641239dcc2"
+    },
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0.33333333333333333333",
+      "daoId": "0x1f7af8f75d13568f4c8f9b318cb16a641239dcc2"
+    },
+    {
+      "memberAddress": "0xd26a3f686d43f2a62ba9eae2ff77e9f516d945b9",
+      "index": "0.33333333333333333333",
+      "daoId": "0x1f7af8f75d13568f4c8f9b318cb16a641239dcc2"
+    }
+  ],
+  "0x23db0190122b9946342099fe6aa5c37c3e39d6ff": [
+    {
+      "memberAddress": "0x2bf034eccebc8cd60dab9c249b6c2996dcb7d8ec",
+      "index": "0",
+      "daoId": "0x23db0190122b9946342099fe6aa5c37c3e39d6ff"
+    },
+    {
+      "memberAddress": "0x914aa366fc6af1cef6d8b98dd24b2842e0d14c39",
+      "index": "0",
+      "daoId": "0x23db0190122b9946342099fe6aa5c37c3e39d6ff"
+    },
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0",
+      "daoId": "0x23db0190122b9946342099fe6aa5c37c3e39d6ff"
+    }
+  ],
+  "0x24c2c5eb8d6d637079044d998274ca30cae1c7f4": [
+    {
+      "memberAddress": "0x3277c45b1ba3212e942a5dc21c70516b0ed55a68",
+      "index": "1",
+      "daoId": "0x24c2c5eb8d6d637079044d998274ca30cae1c7f4"
+    }
+  ],
+  "0x25de1c6bd1d77d57501a5b69db47088fa19ce700": [
+    {
+      "memberAddress": "0xbaf6e57a3940898fd21076b139d4ab231dcbbc5f",
+      "index": "0.5",
+      "daoId": "0x25de1c6bd1d77d57501a5b69db47088fa19ce700"
+    },
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0.5",
+      "daoId": "0x25de1c6bd1d77d57501a5b69db47088fa19ce700"
+    }
+  ],
+  "0x263f6e0d4c735474a01f5e61a797bce83fa7c9e5": [
+    {
+      "memberAddress": "0xca011d01a4b75a36afb5e2b69e0ba8f01c6b500e",
+      "index": "1",
+      "daoId": "0x263f6e0d4c735474a01f5e61a797bce83fa7c9e5"
+    }
+  ],
+  "0x287165a97b973af28ce6bb8c183a7c249aeecb30": [
+    {
+      "memberAddress": "0x091fcbb9186f392610740038ea5b8007fe7674e4",
+      "index": "0.33333333333333333333",
+      "daoId": "0x287165a97b973af28ce6bb8c183a7c249aeecb30"
+    },
+    {
+      "memberAddress": "0x2a8fe25896fcce82c49c2db923abfa4198ad3394",
+      "index": "0.33333333333333333333",
+      "daoId": "0x287165a97b973af28ce6bb8c183a7c249aeecb30"
+    },
+    {
+      "memberAddress": "0x8e4bdd156e4dd802dd919f4fd2645681ce99a538",
+      "index": "0.33333333333333333333",
+      "daoId": "0x287165a97b973af28ce6bb8c183a7c249aeecb30"
+    }
+  ],
+  "0x2a7ec342a6ed4a6354fd00e0497007d671ee7f2e": [
+    {
+      "memberAddress": "0x58f7d03c94ab62d85f395d8e77ce4cf26054d7d9",
+      "index": "1",
+      "daoId": "0x2a7ec342a6ed4a6354fd00e0497007d671ee7f2e"
+    }
+  ],
+  "0x2aee31bc7c07f01278b1026d090b70d0de77c743": [
+    {
+      "memberAddress": "0x8677e4fd6429f2779cd2f1dafb750d1b56658851",
+      "index": "0",
+      "daoId": "0x2aee31bc7c07f01278b1026d090b70d0de77c743"
+    }
+  ],
+  "0x2c2e12a7fce69c3473c5bf9c17281915181d4b98": [
+    {
+      "memberAddress": "0x2606cb984b962ad4aa1ef00f9af9b654b435ad44",
+      "index": "0",
+      "daoId": "0x2c2e12a7fce69c3473c5bf9c17281915181d4b98"
+    },
+    {
+      "memberAddress": "0x503a5161d1c5d9d82bf35a4c80da0c3ad72d9244",
+      "index": "0",
+      "daoId": "0x2c2e12a7fce69c3473c5bf9c17281915181d4b98"
+    },
+    {
+      "memberAddress": "0x7bc48221928f11184b376da7a57650768dfd3332",
+      "index": "0",
+      "daoId": "0x2c2e12a7fce69c3473c5bf9c17281915181d4b98"
+    },
+    {
+      "memberAddress": "0x87690be28b65f13394741c2c2be5a6bdb0505039",
+      "index": "0",
+      "daoId": "0x2c2e12a7fce69c3473c5bf9c17281915181d4b98"
+    },
+    {
+      "memberAddress": "0xd1d8e452a864388280b714537cbead6ff9e28530",
+      "index": "0",
+      "daoId": "0x2c2e12a7fce69c3473c5bf9c17281915181d4b98"
+    }
+  ],
+  "0x2d6824a73d0d494a7fbec65996f8e75bb6da4d41": [
+    {
+      "memberAddress": "0x86fe9bfc77aebb8fe136d27353d1c2fe6454a8e6",
+      "index": "1",
+      "daoId": "0x2d6824a73d0d494a7fbec65996f8e75bb6da4d41"
+    }
+  ],
+  "0x2e207066dd9487c6e5f77ece8e9d14cba3a20d98": [
+    {
+      "memberAddress": "0xe32fb27e65f50c39acc4329650c4cc7a7f668b0b",
+      "index": "1",
+      "daoId": "0x2e207066dd9487c6e5f77ece8e9d14cba3a20d98"
+    },
+    {
+      "memberAddress": "0x097046df3e3d5960af693b2fccc32cd01d25b780",
+      "index": "0",
+      "daoId": "0x2e207066dd9487c6e5f77ece8e9d14cba3a20d98"
+    }
+  ],
+  "0x3024745aaeee3aded8cc95e6556c1b1982859d43": [
+    {
+      "memberAddress": "0x98256c459dc000954f5b5f0397fcd4a7716bc6dd",
+      "index": "1",
+      "daoId": "0x3024745aaeee3aded8cc95e6556c1b1982859d43"
+    }
+  ],
+  "0x34c23bd8ce3918303fc36a936734f65862fdbec6": [
+    {
+      "memberAddress": "0xbea9d2514ac86f46aff198280da5465b007d45b5",
+      "index": "1",
+      "daoId": "0x34c23bd8ce3918303fc36a936734f65862fdbec6"
+    }
+  ],
+  "0x352aed64a1be4daaa32fa358e447091a00681043": [
+    {
+      "memberAddress": "0x77ddd0f344771d97951fb2307901b5b5d5eb5d35",
+      "index": "0.5",
+      "daoId": "0x352aed64a1be4daaa32fa358e447091a00681043"
+    },
+    {
+      "memberAddress": "0x50db427bbf988659ede9b5b49fca471814a37610",
+      "index": "0.5",
+      "daoId": "0x352aed64a1be4daaa32fa358e447091a00681043"
+    }
+  ],
+  "0x38987a18a585decfd15685af975fe690983d003e": [
+    {
+      "memberAddress": "0xc07f692206ac60eeb4811aff7fb4e0ef37e540ab",
+      "index": "1",
+      "daoId": "0x38987a18a585decfd15685af975fe690983d003e"
+    }
+  ],
+  "0x3a2202faea2e9ad654c9ae10c8c39f848874a97c": [
+    {
+      "memberAddress": "0x0ea26051f7657d59418da186137141cea90d0652",
+      "index": "1",
+      "daoId": "0x3a2202faea2e9ad654c9ae10c8c39f848874a97c"
+    }
+  ],
+  "0x3aa6263f060d901fe6d3bb5d4ea7cbaff3575921": [
+    {
+      "memberAddress": "0x53315fa129e1cccc51d8575105755505750f5a38",
+      "index": "1",
+      "daoId": "0x3aa6263f060d901fe6d3bb5d4ea7cbaff3575921"
+    }
+  ],
+  "0x3be9d97165eeddde396658bdfe8b0965ba912f8e": [
+    {
+      "memberAddress": "0x00ca33970150dff4fdd16f4992810117296768dd",
+      "index": "1",
+      "daoId": "0x3be9d97165eeddde396658bdfe8b0965ba912f8e"
+    }
+  ],
+  "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c": [
+    {
+      "memberAddress": "0x04db1bb49b7ffbcec574f34d29c3153953890352",
+      "index": "0.00927000000000000046",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x187089b33e5812310ed32a57f53b3fad0383a19d",
+      "index": "0.00923999999999999995",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xbc5b552641e5d203f0a6c230aa9dc14da7450053",
+      "index": "0.00945000000000000007",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x00000000005dbcb0d0513fcda746382fe8a53468",
+      "index": "0.00897000000000000054",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x0653f05d22e5fe46f15639616e3bfd51c9060214",
+      "index": "0.00969000000000000070",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x0b5f5a722ac5e8ecedf4da39a656fe5f1e76b34c",
+      "index": "0.00872999999999999991",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x0f10f27fbe3622e7d4bdf1f141c6e50ed8845af6",
+      "index": "0.00919000000000000025",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x131fde92e4e88fa0746d9aba3dd4ec8aac1786a6",
+      "index": "0.00867000000000000062",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x139c9041f6dc3c7076de4eac4a22ad8d9085c1bd",
+      "index": "0.00888000000000000074",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x1426fbd146942e153653863cbe633780c17268da",
+      "index": "0.00970000000000000029",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x146cfed833cc926b16b0da9257e8a281c2add9f3",
+      "index": "0.00918000000000000066",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x15c6ac4cf1b5e49c44332fb0a1043ccab19db80a",
+      "index": "0.00871000000000000073",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x17ae58ab79444ad5b8ee2e232caf13c65c32af75",
+      "index": "0.00861999999999999919",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x19c7cc3ef51b59468bb04aae7736cea2ce8b9385",
+      "index": "0.00937999999999999945",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x1a9cee6e1d21c3c09fb83a980ea54299f01920cd",
+      "index": "0.00965000000000000059",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x1c0aa8ccd568d90d61659f060d1bfb1e6f855a20",
+      "index": "0.00935000000000000067",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x1c9f765c579f94f6502acd9fc356171d85a1f8d0",
+      "index": "0.00920999999999999944",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x1dac51886d5b461fccc784ad3813a5969dd42e6f",
+      "index": "0.00931000000000000057",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x1df428833f2c9fb1ef098754e5d710432450d706",
+      "index": "0.00860000000000000001",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x20efcd9b9ade8bd586f840c83a6d8dd8c1d6623b",
+      "index": "0.00880000000000000053",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x224aba5d489675a7bd3ce07786fada466b46fa0f",
+      "index": "0.00871000000000000073",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x2606cb984b962ad4aa1ef00f9af9b654b435ad44",
+      "index": "0.00856999999999999949",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x2619c649d98ddddbb0b218823354fe1d41bf5ce0",
+      "index": "0.00881000000000000012",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x266d6bf46cb5b43aac48eeb28b3fdfbc1d4b9599",
+      "index": "0.00914000000000000055",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x27c72e4bd23c910218d8f06c4a1742e06657c874",
+      "index": "0.00872999999999999991",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x2a3f8ed783ff94fc9b4d87c6b7c6b770bbf063d3",
+      "index": "0.00912999999999999923",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x2bf034eccebc8cd60dab9c249b6c2996dcb7d8ec",
+      "index": "0.00933999999999999934",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x2d60f23aed1d7eb1aa18d0b954eac509e93635e7",
+      "index": "0.00894999999999999962",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x2f51e78ff8aec6a941c4ceeeb26b4a1f03737c50",
+      "index": "0.00894999999999999962",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x3d0022b21eae9ce491e3e8c85081bcee9ffa9fe0",
+      "index": "0.00894000000000000003",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x4059457092cc3812d56676df6a75fd21204fbe2f",
+      "index": "0.00907999999999999953",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x421e56ca6e4b03350188cec58d053b427245665d",
+      "index": "0.00970000000000000029",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x43d01b6130b8b876c03e9d9c6aed661417dd5118",
+      "index": "0.00894999999999999962",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x52b7840b735d518d3898de30a5ffd8550e62b660",
+      "index": "0.00863000000000000052",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x54becc7560a7be76d72ed76a1f5fee6c5a2a7ab6",
+      "index": "0.00841000000000000081",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x5adb8209b5276a23426994298fe9900644f57924",
+      "index": "0.00974999999999999999",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x5bb3e1774923b75ecb804e2559149bbd2a39a414",
+      "index": "0.00871000000000000073",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x5f350bf5fee8e254d6077f8661e9c7b83a30364e",
+      "index": "0.00912999999999999923",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x60959ed8307ee2b0d04306f6b319aeee8864f1ee",
+      "index": "0.00882999999999999931",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x627545ef8b5f9737f86869483cf3df80fb7d0040",
+      "index": "0.00936000000000000026",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x66b1de0f14a0ce971f7f248415063d44caf19398",
+      "index": "0.00909000000000000086",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+      "index": "0.00936000000000000026",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x68f272fcaae074cb33e68d88a32c325ed0df8379",
+      "index": "0.00984999999999999938",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x694c7ca85584d550b36c044e10d3a7b30d85e7f7",
+      "index": "0.00877000000000000002",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x6d97d65adff6771b31671443a6b9512104312d3d",
+      "index": "0.00918000000000000066",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x6ead4327908a7655215d8f757d661ff32f171123",
+      "index": "0.00936999999999999986",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x710e2f9d630516d3afdd053de584f1fa421e84bc",
+      "index": "0.00860000000000000001",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x7326b0d5ba05bb1db17298a0283ab1d3269adeb2",
+      "index": "0.00928000000000000005",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x73f19c4e5ffc335932afebf382def646f600e64a",
+      "index": "0.00966999999999999978",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x756ee8b8e898d497043c2320d9909f1dd5a7077f",
+      "index": "0.00858000000000000082",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x76caf31743dd4b3fad16fae2e06e80be49740aa4",
+      "index": "0.00859000000000000041",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x782220ea5d1fff7423ca79325508e5e63d7ffbeb",
+      "index": "0.00890999999999999952",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x7b86f576669f8d20a8244dabefc65b31d7deb3f2",
+      "index": "0.00923000000000000036",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x7c8db2ba9d0cc044051158b0b2b79c4f103cbefb",
+      "index": "0.00920999999999999944",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x7ca1218f429d0204d76b3172ca39cd01579a1ea4",
+      "index": "0.00957000000000000038",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x7e225a2a269f7af1c884b20f2ba30e8c6573edff",
+      "index": "0.00936999999999999986",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x81865ebc7694dfba6608f6503bba50abb04644b4",
+      "index": "0.00858000000000000082",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x81aaa9a7a8358cc2971b9b8de72acce6d7862bc8",
+      "index": "0.00911000000000000004",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "index": "0.00860000000000000001",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x8760e565273b47195f76a22455ce0b68a11af5b5",
+      "index": "0.00916999999999999933",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x87690be28b65f13394741c2c2be5a6bdb0505039",
+      "index": "0.00902999999999999983",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x89b935d90b919a9e0182800399359bdb4dc6cf5a",
+      "index": "0.00910000000000000045",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x938eb6843eecd0fce3c5f472ce6d54212f671371",
+      "index": "0.00920999999999999944",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x956d5740b3477f0b46dae26753b07ecbd8055908",
+      "index": "0.00953999999999999987",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x9583648c314cdf666f4f555299db3b36f5d5b2f9",
+      "index": "0.00885999999999999982",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x986e92868a27548a31e88f7692e746cd7e86f39a",
+      "index": "0.00897000000000000054",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0x9d06abcb6bf6ba8284255ce1d4cf965a04810336",
+      "index": "0.00927000000000000046",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xa27942091724640086d7772780327ba85744a561",
+      "index": "0.00864999999999999970",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xa3564677fc4907a15c9a7eae1dbc1ae9ac57b8e1",
+      "index": "0.00911999999999999963",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xa5b457d49d4be5e2d4708a371839124a9c6169cf",
+      "index": "0.00940999999999999996",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xaa71936dfd596c6f794b809cdb9568f4f2ba5c2a",
+      "index": "0.00897000000000000054",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xab8a7848e9c6e22e52b5e3edf8e2b779727b17ad",
+      "index": "0.00882999999999999931",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xae059b2bc5397ebfbf523873545edcae340bee5a",
+      "index": "0.00963999999999999926",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xae0b2d0268ad8e59bd4a9424d78ecd71233a0d77",
+      "index": "0.00939000000000000078",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xb4135c81b194cae8dd2c4426527e880f95840acc",
+      "index": "0.00884000000000000064",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xb4c3a698874b625df289e97f718206701c1f4c0f",
+      "index": "0.00957000000000000038",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xb5425a27d5822aa7a7b9a7923627adfd5e249bb1",
+      "index": "0.00902999999999999983",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xb6dacfc9e6443f2546e9285ba4ae6359cdc20727",
+      "index": "0.00939000000000000078",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xbbfafca841af78b31a5ed8e6ff7c51d431ced138",
+      "index": "0.00894999999999999962",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xbc4a2b0b65e39bae9bedad1798b824eaf0a60639",
+      "index": "0.00889999999999999993",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xbf42c05bd8302a4d2efd0cdf66fc33d8123887bf",
+      "index": "0.00903999999999999942",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xbfc7cae0fad9b346270ae8fde24827d2d779ef07",
+      "index": "0.00912999999999999923",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xc1a26fc95765b8969f251ea6caefd97eb73b2938",
+      "index": "0.00864000000000000011",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xc2013c235cf746a8164747e25254c7b538864e10",
+      "index": "0.00945000000000000007",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xca7a1a193a02e0520b6b745cd2eb24967c27ca00",
+      "index": "0.00949000000000000017",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xcb42ac441fcade3935243ea118701f39aa004486",
+      "index": "0.00945999999999999966",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xcbbd18d3ac27ab0fffd04bccd091b2802c92e0ca",
+      "index": "0.00939000000000000078",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xccc9d33567912c9d4446ad2298e74084c0e356ee",
+      "index": "0.00873999999999999951",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xcccd8e327bf88bc793337e0270d368d814c3c165",
+      "index": "0.00936000000000000026",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0.00878999999999999920",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xd1d8e452a864388280b714537cbead6ff9e28530",
+      "index": "0.00940999999999999996",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xd26a3f686d43f2a62ba9eae2ff77e9f516d945b9",
+      "index": "0.00846000000000000051",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xd59e164afc6f7158a94be14dc142cbcb3b2c00e5",
+      "index": "0.00906999999999999994",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xda5b2cd0d0bb26e79fb3210233ddabdb7de131c9",
+      "index": "0.00902999999999999983",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xdf1064632754674acb1b804f2c65849d016eaf9d",
+      "index": "0.00905000000000000075",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xe0802cf223a05a14408ad44e7f878d21408fb04c",
+      "index": "0.00948000000000000058",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xe14016d61f1e784f49c2bfd27f5f1a0155d0d4d5",
+      "index": "0.00872999999999999991",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xe160b7e43cd921ace4407358022e4897414ec377",
+      "index": "0.00983000000000000020",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xe22158765f79d344400adee7d71a04522fde46ce",
+      "index": "0.00889999999999999993",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xe68967c95f5a9bccfdd711a2cbc23ec958f147ef",
+      "index": "0.00919000000000000025",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xe8adaea0ba507a28d1309051beceb4db7fe377af",
+      "index": "0.00931000000000000057",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xe906f20eb610ced36b0091d2e4c046ad65424b55",
+      "index": "0.00885000000000000023",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xec9a65d2515a1b4de8497b9c5e43e254b1ebf93a",
+      "index": "0.00944000000000000047",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xf4b27acb9a65dcb2fbfe8fb44516b09ac1f39822",
+      "index": "0.00869999999999999940",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xf7a653dd95c7a3136af65a0036d4fd02ca359966",
+      "index": "0.00864999999999999970",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xf925fdaea552d36a5291335941ab7a046f960a80",
+      "index": "0.00935000000000000067",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xfacef700458d4fc9746f7f3e0d37b462711ff09e",
+      "index": "0.00933999999999999934",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xfc0ffda6bacd430679b012dff51d39d5107cdf06",
+      "index": "0.00834000000000000019",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xff0dca219a54767eecb5a0ff4382ccb938311ff8",
+      "index": "0.00925999999999999913",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    },
+    {
+      "memberAddress": "0xffadc07f1bfb127f4312e8652fe94ab0c771b54d",
+      "index": "0.00894000000000000003",
+      "daoId": "0x3d5f4ca36da241d64d094dcadc10964282a8cc4c"
+    }
+  ],
+  "0x3fc6c974399bc5e37cc5150973d3b91bdb8df09c": [
+    {
+      "memberAddress": "0x232adb5f8e6bf6195207ea54ed392d28db718ee1",
+      "index": "0.33333333333333333333",
+      "daoId": "0x3fc6c974399bc5e37cc5150973d3b91bdb8df09c"
+    },
+    {
+      "memberAddress": "0xa8cadc2268b01395f8573682fb9dd00bd582e8a0",
+      "index": "0.33333333333333333333",
+      "daoId": "0x3fc6c974399bc5e37cc5150973d3b91bdb8df09c"
+    },
+    {
+      "memberAddress": "0xd083764c39eddb70a749e0c1f808c14706b0cf44",
+      "index": "0.33333333333333333333",
+      "daoId": "0x3fc6c974399bc5e37cc5150973d3b91bdb8df09c"
+    }
+  ],
+  "0x408818460de7d14e8f68e6142a49ea322c9d4ab1": [
+    {
+      "memberAddress": "0x81865ebc7694dfba6608f6503bba50abb04644b4",
+      "index": "0.5",
+      "daoId": "0x408818460de7d14e8f68e6142a49ea322c9d4ab1"
+    },
+    {
+      "memberAddress": "0xd083764c39eddb70a749e0c1f808c14706b0cf44",
+      "index": "0.5",
+      "daoId": "0x408818460de7d14e8f68e6142a49ea322c9d4ab1"
+    }
+  ],
+  "0x431ff10c6f787ea69cde95ed1528f22c15678ed4": [
+    {
+      "memberAddress": "0x187089b33e5812310ed32a57f53b3fad0383a19d",
+      "index": "0",
+      "daoId": "0x431ff10c6f787ea69cde95ed1528f22c15678ed4"
+    },
+    {
+      "memberAddress": "0x1c9f765c579f94f6502acd9fc356171d85a1f8d0",
+      "index": "0",
+      "daoId": "0x431ff10c6f787ea69cde95ed1528f22c15678ed4"
+    },
+    {
+      "memberAddress": "0x224aba5d489675a7bd3ce07786fada466b46fa0f",
+      "index": "0",
+      "daoId": "0x431ff10c6f787ea69cde95ed1528f22c15678ed4"
+    },
+    {
+      "memberAddress": "0x2619c649d98ddddbb0b218823354fe1d41bf5ce0",
+      "index": "0",
+      "daoId": "0x431ff10c6f787ea69cde95ed1528f22c15678ed4"
+    },
+    {
+      "memberAddress": "0x27773b203954fbbb3e98dfa1a85a99e1c2f40f56",
+      "index": "0",
+      "daoId": "0x431ff10c6f787ea69cde95ed1528f22c15678ed4"
+    },
+    {
+      "memberAddress": "0x67243d6c3c3bdc2f59d2f74ba1949a02973a529d",
+      "index": "0",
+      "daoId": "0x431ff10c6f787ea69cde95ed1528f22c15678ed4"
+    },
+    {
+      "memberAddress": "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "index": "0",
+      "daoId": "0x431ff10c6f787ea69cde95ed1528f22c15678ed4"
+    },
+    {
+      "memberAddress": "0x914aa366fc6af1cef6d8b98dd24b2842e0d14c39",
+      "index": "0",
+      "daoId": "0x431ff10c6f787ea69cde95ed1528f22c15678ed4"
+    },
+    {
+      "memberAddress": "0xa8cadc2268b01395f8573682fb9dd00bd582e8a0",
+      "index": "0",
+      "daoId": "0x431ff10c6f787ea69cde95ed1528f22c15678ed4"
+    },
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0",
+      "daoId": "0x431ff10c6f787ea69cde95ed1528f22c15678ed4"
+    }
+  ],
+  "0x45823dafd294fc4e09b37ec0fca36fbf77983169": [
+    {
+      "memberAddress": "0xeb4e3e9fa819e69e5df4ea35b9c7973062c96de9",
+      "index": "1",
+      "daoId": "0x45823dafd294fc4e09b37ec0fca36fbf77983169"
+    }
+  ],
+  "0x465b1d43f704aea5409044aa7d71545f2c3ef3b8": [
+    {
+      "memberAddress": "0x51d7bee7ee3f57a4efd83bc8f05e7815b802c1a8",
+      "index": "0",
+      "daoId": "0x465b1d43f704aea5409044aa7d71545f2c3ef3b8"
+    },
+    {
+      "memberAddress": "0x3de52fede53a93ace4dd13e7215f38022ea7b619",
+      "index": "0",
+      "daoId": "0x465b1d43f704aea5409044aa7d71545f2c3ef3b8"
+    }
+  ],
+  "0x467a18120b749f7551993c43a7c5db7708cccaea": [
+    {
+      "memberAddress": "0xb255f70edfa044674fccd01c099955acc6fc7ff4",
+      "index": "1",
+      "daoId": "0x467a18120b749f7551993c43a7c5db7708cccaea"
+    }
+  ],
+  "0x48e5bbf478eb9ec7b1a812a81bfd2f381b9017ed": [
+    {
+      "memberAddress": "0xe32fb27e65f50c39acc4329650c4cc7a7f668b0b",
+      "index": "1",
+      "daoId": "0x48e5bbf478eb9ec7b1a812a81bfd2f381b9017ed"
+    },
+    {
+      "memberAddress": "0x097046df3e3d5960af693b2fccc32cd01d25b780",
+      "index": "0",
+      "daoId": "0x48e5bbf478eb9ec7b1a812a81bfd2f381b9017ed"
+    }
+  ],
+  "0x48f9bee2f414632589cc5bc22d2f753c1ac002ed": [
+    {
+      "memberAddress": "0x2619c649d98ddddbb0b218823354fe1d41bf5ce0",
+      "index": "0",
+      "daoId": "0x48f9bee2f414632589cc5bc22d2f753c1ac002ed"
+    },
+    {
+      "memberAddress": "0xd1d8e452a864388280b714537cbead6ff9e28530",
+      "index": "0",
+      "daoId": "0x48f9bee2f414632589cc5bc22d2f753c1ac002ed"
+    }
+  ],
+  "0x495be2190efe1ee0d5ece6ec63a12c12760b0117": [
+    {
+      "memberAddress": "0x4d49606375ec69d743524dfc0b42b999416fe1ca",
+      "index": "1",
+      "daoId": "0x495be2190efe1ee0d5ece6ec63a12c12760b0117"
+    }
+  ],
+  "0x49fa8b35b19dcd838ddebbaea411755f3c98262b": [
+    {
+      "memberAddress": "0xe01757a3b75ed9a2f1be4da66f78a95a127af334",
+      "index": "0.5",
+      "daoId": "0x49fa8b35b19dcd838ddebbaea411755f3c98262b"
+    },
+    {
+      "memberAddress": "0x87fd688622b24e590f7b17d34ff893edb7472b60",
+      "index": "0.16666666666666666666",
+      "daoId": "0x49fa8b35b19dcd838ddebbaea411755f3c98262b"
+    },
+    {
+      "memberAddress": "0xc465f4b84444b6fa087e481672b3536acb4fa1a6",
+      "index": "0.16666666666666666666",
+      "daoId": "0x49fa8b35b19dcd838ddebbaea411755f3c98262b"
+    },
+    {
+      "memberAddress": "0xfd7e5e9b94286fddc254da834c78708faf60ba98",
+      "index": "0.16666666666666666666",
+      "daoId": "0x49fa8b35b19dcd838ddebbaea411755f3c98262b"
+    }
+  ],
+  "0x52a5260d0aa0a5f8aa45de1d4c3b36ebb45c73bd": [
+    {
+      "memberAddress": "0x2a8fe25896fcce82c49c2db923abfa4198ad3394",
+      "index": "1",
+      "daoId": "0x52a5260d0aa0a5f8aa45de1d4c3b36ebb45c73bd"
+    }
+  ],
+  "0x5329b7adba8d38c0623378cec82d07fdc806accd": [
+    {
+      "memberAddress": "0xaef1870f92cebcbef5cb821a2765ed88472fe362",
+      "index": "0.5",
+      "daoId": "0x5329b7adba8d38c0623378cec82d07fdc806accd"
+    },
+    {
+      "memberAddress": "0xb9d27ab6ac5283878fe2aafdd41e8cb8df769de4",
+      "index": "0.5",
+      "daoId": "0x5329b7adba8d38c0623378cec82d07fdc806accd"
+    },
+    {
+      "memberAddress": "0xc4b970f656db47e6ed1c57d20f978a4c34df262b",
+      "index": "0",
+      "daoId": "0x5329b7adba8d38c0623378cec82d07fdc806accd"
+    }
+  ],
+  "0x547afabce988f3f20bb35f7a42134a63ac2d2229": [
+    {
+      "memberAddress": "0xe5968d115a127142c3872311cdee1f97ed5fa665",
+      "index": "0.5",
+      "daoId": "0x547afabce988f3f20bb35f7a42134a63ac2d2229"
+    },
+    {
+      "memberAddress": "0xf1c9b1c16581b5f204bcbef2e2118703d2d51fe0",
+      "index": "0.5",
+      "daoId": "0x547afabce988f3f20bb35f7a42134a63ac2d2229"
+    }
+  ],
+  "0x5629b1080648190279c42f37446bf15ac554950c": [
+    {
+      "memberAddress": "0x2619c649d98ddddbb0b218823354fe1d41bf5ce0",
+      "index": "0",
+      "daoId": "0x5629b1080648190279c42f37446bf15ac554950c"
+    },
+    {
+      "memberAddress": "0x2f51e78ff8aec6a941c4ceeeb26b4a1f03737c50",
+      "index": "0",
+      "daoId": "0x5629b1080648190279c42f37446bf15ac554950c"
+    },
+    {
+      "memberAddress": "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "index": "0",
+      "daoId": "0x5629b1080648190279c42f37446bf15ac554950c"
+    },
+    {
+      "memberAddress": "0xcca9a24c13b3c84e84643cb2cfa6b2402ff870e8",
+      "index": "0",
+      "daoId": "0x5629b1080648190279c42f37446bf15ac554950c"
+    }
+  ],
+  "0x576579d3fd475e14742bd275e8b2f617f70b874b": [
+    {
+      "memberAddress": "0x1c9f765c579f94f6502acd9fc356171d85a1f8d0",
+      "index": "0.25",
+      "daoId": "0x576579d3fd475e14742bd275e8b2f617f70b874b"
+    },
+    {
+      "memberAddress": "0x2559ff0f61870134a1d75ce3f271878dcdb0eee1",
+      "index": "0.25",
+      "daoId": "0x576579d3fd475e14742bd275e8b2f617f70b874b"
+    },
+    {
+      "memberAddress": "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "index": "0.25",
+      "daoId": "0x576579d3fd475e14742bd275e8b2f617f70b874b"
+    },
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0.25",
+      "daoId": "0x576579d3fd475e14742bd275e8b2f617f70b874b"
+    }
+  ],
+  "0x5823596c3523379a736756623554b27feaaee492": [
+    {
+      "memberAddress": "0xed57cce9239793496bb0ee090b02777f2d1562b1",
+      "index": "0",
+      "daoId": "0x5823596c3523379a736756623554b27feaaee492"
+    }
+  ],
+  "0x59cd41f7d0c488d2ad95bf378eb0e1833b9a8b7f": [
+    {
+      "memberAddress": "0x1c9f765c579f94f6502acd9fc356171d85a1f8d0",
+      "index": "0",
+      "daoId": "0x59cd41f7d0c488d2ad95bf378eb0e1833b9a8b7f"
+    },
+    {
+      "memberAddress": "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "index": "0",
+      "daoId": "0x59cd41f7d0c488d2ad95bf378eb0e1833b9a8b7f"
+    },
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0",
+      "daoId": "0x59cd41f7d0c488d2ad95bf378eb0e1833b9a8b7f"
+    }
+  ],
+  "0x5c4fe5e395690f96c0ab7e7ecded955a91ee2092": [
+    {
+      "memberAddress": "0x2085e2838de7f47128a94ac9d938ed4c5a28016b",
+      "index": "0.5",
+      "daoId": "0x5c4fe5e395690f96c0ab7e7ecded955a91ee2092"
+    },
+    {
+      "memberAddress": "0x960aeed0b58991061d2527d3dd414688e5958d5e",
+      "index": "0.5",
+      "daoId": "0x5c4fe5e395690f96c0ab7e7ecded955a91ee2092"
+    }
+  ],
+  "0x5ef275faff58246b7dc590f1ecca2f6eebb93762": [
+    {
+      "memberAddress": "0x92a0925c3c08c12e6e2185595ff94a49c1dfb5fb",
+      "index": "1",
+      "daoId": "0x5ef275faff58246b7dc590f1ecca2f6eebb93762"
+    }
+  ],
+  "0x62ae0949774bc0ad9e4e02e528f00614653e9f57": [
+    {
+      "memberAddress": "0x6d6803fba7ca68914800885604b26af2233158ac",
+      "index": "1",
+      "daoId": "0x62ae0949774bc0ad9e4e02e528f00614653e9f57"
+    }
+  ],
+  "0x65450532d90c758ad0dd9264c64ce58b5bd1bbc3": [
+    {
+      "memberAddress": "0x06cde349fad27247afd18b3b5adc51f9776e54ee",
+      "index": "0",
+      "daoId": "0x65450532d90c758ad0dd9264c64ce58b5bd1bbc3"
+    },
+    {
+      "memberAddress": "0x095781cca3588d935d25dba2029578a368714745",
+      "index": "0",
+      "daoId": "0x65450532d90c758ad0dd9264c64ce58b5bd1bbc3"
+    },
+    {
+      "memberAddress": "0x0d3d348d4921fbb1599828f803210c54b4b5989e",
+      "index": "0",
+      "daoId": "0x65450532d90c758ad0dd9264c64ce58b5bd1bbc3"
+    },
+    {
+      "memberAddress": "0x1ab1cc668d0bb2b8161d90bf82de728b8cc6e2f4",
+      "index": "0",
+      "daoId": "0x65450532d90c758ad0dd9264c64ce58b5bd1bbc3"
+    },
+    {
+      "memberAddress": "0x1f1a9042b35af27ab10051b70cf4de7185b59a37",
+      "index": "0",
+      "daoId": "0x65450532d90c758ad0dd9264c64ce58b5bd1bbc3"
+    },
+    {
+      "memberAddress": "0x4b60411a14f78df9be2b6d500898937f625ac50c",
+      "index": "0",
+      "daoId": "0x65450532d90c758ad0dd9264c64ce58b5bd1bbc3"
+    },
+    {
+      "memberAddress": "0x926846d0098eef18b5b449e94bf238158186aa73",
+      "index": "0",
+      "daoId": "0x65450532d90c758ad0dd9264c64ce58b5bd1bbc3"
+    },
+    {
+      "memberAddress": "0xd27a7885708fc7c77e3355b27f296b1c4173c3ab",
+      "index": "0",
+      "daoId": "0x65450532d90c758ad0dd9264c64ce58b5bd1bbc3"
+    }
+  ],
+  "0x6767f01d60f8c8c08135b0ab6a84e151a5773361": [
+    {
+      "memberAddress": "0x3f9eb6a01f839c5aaaaa4e7bdd8b642da340e1ab",
+      "index": "1",
+      "daoId": "0x6767f01d60f8c8c08135b0ab6a84e151a5773361"
+    }
+  ],
+  "0x68c88ee8d783dd18293c15105f9018b858fa683f": [
+    {
+      "memberAddress": "0x27773b203954fbbb3e98dfa1a85a99e1c2f40f56",
+      "index": "0.5",
+      "daoId": "0x68c88ee8d783dd18293c15105f9018b858fa683f"
+    },
+    {
+      "memberAddress": "0xde6bcde54cf040088607199fc541f013ba53c21e",
+      "index": "0.5",
+      "daoId": "0x68c88ee8d783dd18293c15105f9018b858fa683f"
+    }
+  ],
+  "0x6eb82461e1657275cdfe6cc017d8ceef4e561ccb": [
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0",
+      "daoId": "0x6eb82461e1657275cdfe6cc017d8ceef4e561ccb"
+    },
+    {
+      "memberAddress": "0xde6bcde54cf040088607199fc541f013ba53c21e",
+      "index": "0",
+      "daoId": "0x6eb82461e1657275cdfe6cc017d8ceef4e561ccb"
+    },
+    {
+      "memberAddress": "0x57ffb33cc9d786da4087d970b0b0053017f26afc",
+      "index": "0",
+      "daoId": "0x6eb82461e1657275cdfe6cc017d8ceef4e561ccb"
+    },
+    {
+      "memberAddress": "0xd800b05c70a2071bc1e5eac5b3390da1eb67bc9d",
+      "index": "0",
+      "daoId": "0x6eb82461e1657275cdfe6cc017d8ceef4e561ccb"
+    },
+    {
+      "memberAddress": "0x57abda4ee50bb3079a556c878b2c345310057569",
+      "index": "0",
+      "daoId": "0x6eb82461e1657275cdfe6cc017d8ceef4e561ccb"
+    }
+  ],
+  "0x71d6e79a50cdb99378f76b0020adc2aa7ad35558": [
+    {
+      "memberAddress": "0xd083764c39eddb70a749e0c1f808c14706b0cf44",
+      "index": "1",
+      "daoId": "0x71d6e79a50cdb99378f76b0020adc2aa7ad35558"
+    }
+  ],
+  "0x72575c0d285d0396895bb5820f4479864094b616": [
+    {
+      "memberAddress": "0x2c30a21694ba6eb5fecb42f2ea7d8389dc00dd25",
+      "index": "0.14285714285714285714",
+      "daoId": "0x72575c0d285d0396895bb5820f4479864094b616"
+    },
+    {
+      "memberAddress": "0x5117856736e109ad021f0d0a2c23a3bb99d5b072",
+      "index": "0.14285714285714285714",
+      "daoId": "0x72575c0d285d0396895bb5820f4479864094b616"
+    },
+    {
+      "memberAddress": "0x7ffa24148d0b1cf7e0f1bd59e6464be51818756b",
+      "index": "0.14285714285714285714",
+      "daoId": "0x72575c0d285d0396895bb5820f4479864094b616"
+    },
+    {
+      "memberAddress": "0x843c9002c4caa1c96a8a2df5ccd78267d8046841",
+      "index": "0.14285714285714285714",
+      "daoId": "0x72575c0d285d0396895bb5820f4479864094b616"
+    },
+    {
+      "memberAddress": "0x9426e92b40b165313909650db69e695a7fa0564e",
+      "index": "0.14285714285714285714",
+      "daoId": "0x72575c0d285d0396895bb5820f4479864094b616"
+    },
+    {
+      "memberAddress": "0xb7cb9af9af123998910f9f4524c22c2179c99eb2",
+      "index": "0.14285714285714285714",
+      "daoId": "0x72575c0d285d0396895bb5820f4479864094b616"
+    },
+    {
+      "memberAddress": "0xf02f21428830cb751d2c470728e9bf74d7a14194",
+      "index": "0.14285714285714285714",
+      "daoId": "0x72575c0d285d0396895bb5820f4479864094b616"
+    }
+  ],
+  "0x72a0c532ebc50cd1d4d1f826883166995244731e": [
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0.16666666666666666666",
+      "daoId": "0x72a0c532ebc50cd1d4d1f826883166995244731e"
+    },
+    {
+      "memberAddress": "0xbaf6e57a3940898fd21076b139d4ab231dcbbc5f",
+      "index": "0.16666666666666666666",
+      "daoId": "0x72a0c532ebc50cd1d4d1f826883166995244731e"
+    },
+    {
+      "memberAddress": "0xacc62533eb33b3a3de415d45ba54b6d9e41cf24f",
+      "index": "0.16666666666666666666",
+      "daoId": "0x72a0c532ebc50cd1d4d1f826883166995244731e"
+    },
+    {
+      "memberAddress": "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "index": "0.16666666666666666666",
+      "daoId": "0x72a0c532ebc50cd1d4d1f826883166995244731e"
+    },
+    {
+      "memberAddress": "0x33da8ebdbd10da596885ab54f535045896b74303",
+      "index": "0.16666666666666666666",
+      "daoId": "0x72a0c532ebc50cd1d4d1f826883166995244731e"
+    },
+    {
+      "memberAddress": "0xcca9a24c13b3c84e84643cb2cfa6b2402ff870e8",
+      "index": "0.16666666666666666666",
+      "daoId": "0x72a0c532ebc50cd1d4d1f826883166995244731e"
+    }
+  ],
+  "0x72bce9ce057c8a5b4b69c26dace0df30a6bac2fe": [
+    {
+      "memberAddress": "0x2c76aba691eb9fdb84a01701a1ac55310b7fd7d1",
+      "index": "1",
+      "daoId": "0x72bce9ce057c8a5b4b69c26dace0df30a6bac2fe"
+    }
+  ],
+  "0x743e76df43ed5e48d60ed4c42be3a6489a220355": [
+    {
+      "memberAddress": "0x2e1192583bf8bbe1b4aff85f95a5279d4bd0d6a4",
+      "index": "0.5",
+      "daoId": "0x743e76df43ed5e48d60ed4c42be3a6489a220355"
+    },
+    {
+      "memberAddress": "0xff16d64179a02d6a56a1183a28f1d6293646e2dd",
+      "index": "0.5",
+      "daoId": "0x743e76df43ed5e48d60ed4c42be3a6489a220355"
+    }
+  ],
+  "0x773d823d7d01525e44de58ce1c183176decf4bdb": [
+    {
+      "memberAddress": "0x680c6dfed9c6e80afcec0224a27982f778614aad",
+      "index": "0.5",
+      "daoId": "0x773d823d7d01525e44de58ce1c183176decf4bdb"
+    },
+    {
+      "memberAddress": "0x8336f414cfbb2934a1bbc2c5c6915f1f31969282",
+      "index": "0.5",
+      "daoId": "0x773d823d7d01525e44de58ce1c183176decf4bdb"
+    }
+  ],
+  "0x796e27e5ab75d3b3d54cc348383e3321f37434f4": [
+    {
+      "memberAddress": "0x1e9c89aff77215f3ad26bffe0c50d4fdeba6a352",
+      "index": "0",
+      "daoId": "0x796e27e5ab75d3b3d54cc348383e3321f37434f4"
+    },
+    {
+      "memberAddress": "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+      "index": "0",
+      "daoId": "0x796e27e5ab75d3b3d54cc348383e3321f37434f4"
+    }
+  ],
+  "0x79765bdc29d10bd6206fed6c3ada7f8b7865366e": [
+    {
+      "memberAddress": "0xdabfe7fcfc45549eb5ca56a1686f18c11520ee34",
+      "index": "0",
+      "daoId": "0x79765bdc29d10bd6206fed6c3ada7f8b7865366e"
+    }
+  ],
+  "0x7bf9c901232e537524d2a2d5077c4a6618d7a9a4": [
+    {
+      "memberAddress": "0x8b69e1051805c190fe9464493f32f86077446990",
+      "index": "1",
+      "daoId": "0x7bf9c901232e537524d2a2d5077c4a6618d7a9a4"
+    }
+  ],
+  "0x7c48e9d16055312a3e5938ca6a6954b54510a2f3": [
+    {
+      "memberAddress": "0x651b6332df533708ae4a25df73b93927addd9083",
+      "index": "1",
+      "daoId": "0x7c48e9d16055312a3e5938ca6a6954b54510a2f3"
+    }
+  ],
+  "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659": [
+    {
+      "memberAddress": "0x829e98b94802eb550d72e7c0074ea5be0eec2f3f",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0x6afa2cdea65bd55a47cbb459aa69aa244ca3cdc8",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0xe7db7ec8920aa8feeb1ea8dfd9a2773a8a69a908",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0xa0d3bbc3764b5f3a8d788064a62544fdc25d0334",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0xa3fbd10f67eca876d57efa50e046f3d3054e8a5f",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0xdfb7c410be17f38ecb970efa438db308ca281e23",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0x0ea26051f7657d59418da186137141cea90d0652",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0x0f1d41cc51e97dc9d0cad80dc681777eed3675e3",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0x2085e2838de7f47128a94ac9d938ed4c5a28016b",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0x223da87421786dd8960bf2350e6c499bebca64d1",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0x29cf75f4622dbedbc63354e28f6e734635690f4b",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0x2a045211d7d1167d6f5f5812959fa9613f58df8a",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0x65383083c52bac902f8dca58dfcac3ed97379669",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0x87ece9936ad2254d03af83958fe3b202dc79793f",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0xa1157827b02f05e92361049637db6c43d6f00280",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0xba0e393d0d47ae81a22f27d68bac043bb64ddb31",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0xba6dbb885926d4cdd82b99dd711239a9e36ccc3a",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0xca85c622d4c61047f96e352cb919695486a193e6",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0xeaa47a3563a91b4016ef8c8e9504aa3cb0a764c7",
+      "index": "0.05263157894736842105",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    },
+    {
+      "memberAddress": "0x57533938255dbdc897fd2926bfb3e7a15bc9033e",
+      "index": "0",
+      "daoId": "0x7ca3494cc9b31afa05c2f51ba5a2aa5affb3b659"
+    }
+  ],
+  "0x7e1e0b48b6dd7c8c8fb4c24fdb7a0433ffe8e2f6": [
+    {
+      "memberAddress": "0x9d4e94db689bc471e45b0a18b7bda36fccec9c3b",
+      "index": "0.33333333333333333333",
+      "daoId": "0x7e1e0b48b6dd7c8c8fb4c24fdb7a0433ffe8e2f6"
+    },
+    {
+      "memberAddress": "0xaca61fb4a689242f8954c3f23f95a818857c6b2b",
+      "index": "0.33333333333333333333",
+      "daoId": "0x7e1e0b48b6dd7c8c8fb4c24fdb7a0433ffe8e2f6"
+    },
+    {
+      "memberAddress": "0xf422757273d8f2225669c0aeef0c8c1440bf61ae",
+      "index": "0.33333333333333333333",
+      "daoId": "0x7e1e0b48b6dd7c8c8fb4c24fdb7a0433ffe8e2f6"
+    }
+  ],
+  "0x7e72ba58d3d331d339566db9ff3ec184b293477d": [
+    {
+      "memberAddress": "0xd1d8e452a864388280b714537cbead6ff9e28530",
+      "index": "0.28603000000000000647",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0x0ea26051f7657d59418da186137141cea90d0652",
+      "index": "0.28656999999999999140",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0.08347999999999999865",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0x67243d6c3c3bdc2f59d2f74ba1949a02973a529d",
+      "index": "0.03445000000000000145",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0xbebc3a6b4f31028c3492410b78a690f80d2788a3",
+      "index": "0.03529000000000000192",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0xbaf6e57a3940898fd21076b139d4ab231dcbbc5f",
+      "index": "0.02867000000000000104",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0xbc5b552641e5d203f0a6c230aa9dc14da7450053",
+      "index": "0.02302999999999999839",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0x224aba5d489675a7bd3ce07786fada466b46fa0f",
+      "index": "0.01632000000000000117",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0x2a8fe25896fcce82c49c2db923abfa4198ad3394",
+      "index": "0.01572000000000000133",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "index": "0.01678999999999999937",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0x1c9f765c579f94f6502acd9fc356171d85a1f8d0",
+      "index": "0.01076000000000000047",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0x27773b203954fbbb3e98dfa1a85a99e1c2f40f56",
+      "index": "0.01055999999999999994",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0x392214b7643bfd9aaf8c0475289f77847401ed90",
+      "index": "0.01069999999999999944",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0x57abda4ee50bb3079a556c878b2c345310057569",
+      "index": "0.01176999999999999921",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0x6f97da40d29ae94002ca2a62eb472e8ba583fa24",
+      "index": "0.01030000000000000013",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0xd083764c39eddb70a749e0c1f808c14706b0cf44",
+      "index": "0.01141000000000000000",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0xde6bcde54cf040088607199fc541f013ba53c21e",
+      "index": "0.01058000000000000086",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0xeb4e3e9fa819e69e5df4ea35b9c7973062c96de9",
+      "index": "0.01106999999999999998",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0xf100041473280b594d78ab5fa4c44ba81edd367b",
+      "index": "0.01077000000000000006",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0x07fda67513ec0897866098a11dc3858089d4a505",
+      "index": "0.00506999999999999985",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0x0fef92a34ecf1f742b01c9e3cb2732a83c6067b6",
+      "index": "0.00534999999999999972",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0x2606cb984b962ad4aa1ef00f9af9b654b435ad44",
+      "index": "0.00529000000000000043",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0x511449dd36e5db31980aa0452aaab95b9a68ae99",
+      "index": "0.00532999999999999967",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0x57ffb33cc9d786da4087d970b0b0053017f26afc",
+      "index": "0.00527999999999999997",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0x8e4bdd156e4dd802dd919f4fd2645681ce99a538",
+      "index": "0.00570999999999999980",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0xaf740c4045c1584699947ddb396e4147392a11b5",
+      "index": "0.00527000000000000038",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0xc2207416886ef70e2e8e12515eff83230489384b",
+      "index": "0.00557000000000000030",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0xcaa505e63d8cdef8e34ab585ab49e929dfc766b5",
+      "index": "0.00581000000000000006",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0xccc9d33567912c9d4446ad2298e74084c0e356ee",
+      "index": "0.00508999999999999991",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0xd800b05c70a2071bc1e5eac5b3390da1eb67bc9d",
+      "index": "0.00540000000000000029",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0xda5b2cd0d0bb26e79fb3210233ddabdb7de131c9",
+      "index": "0.00555999999999999984",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0xe04885c3f1419c6e8495c33bdcf5f8387cd88846",
+      "index": "0.00576000000000000036",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    },
+    {
+      "memberAddress": "0xf65edf34797567ca62ee0628bb14a47bce7333d7",
+      "index": "0.00523999999999999987",
+      "daoId": "0x7e72ba58d3d331d339566db9ff3ec184b293477d"
+    }
+  ],
+  "0x7eea02949a8270cbd67a3fceed732a5748be4743": [
+    {
+      "memberAddress": "0x6b40a150ad283cf273905fab386dea0423d687c3",
+      "index": "0",
+      "daoId": "0x7eea02949a8270cbd67a3fceed732a5748be4743"
+    }
+  ],
+  "0x7f758477e1504d02ede44823e44c135e70de78cc": [
+    {
+      "memberAddress": "0x599759f1f068fa830876fc230ec236dce5db7f18",
+      "index": "0",
+      "daoId": "0x7f758477e1504d02ede44823e44c135e70de78cc"
+    }
+  ],
+  "0x8353109a1c5f2a812245437530385f641bd82d74": [
+    {
+      "memberAddress": "0x87690be28b65f13394741c2c2be5a6bdb0505039",
+      "index": "0.5",
+      "daoId": "0x8353109a1c5f2a812245437530385f641bd82d74"
+    },
+    {
+      "memberAddress": "0xd1d8e452a864388280b714537cbead6ff9e28530",
+      "index": "0.5",
+      "daoId": "0x8353109a1c5f2a812245437530385f641bd82d74"
+    }
+  ],
+  "0x849bc11d576b2da89212333557947bcd419023fa": [
+    {
+      "memberAddress": "0x3aba5614077383e9a2c237dcba7c453e4eee9790",
+      "index": "0.125",
+      "daoId": "0x849bc11d576b2da89212333557947bcd419023fa"
+    },
+    {
+      "memberAddress": "0x5d9abe14a25699f4a386856dea31f3d82b35bae2",
+      "index": "0.125",
+      "daoId": "0x849bc11d576b2da89212333557947bcd419023fa"
+    },
+    {
+      "memberAddress": "0x6daa4ed3a4bb5fef36e2bb36c9a819917747f8ac",
+      "index": "0.125",
+      "daoId": "0x849bc11d576b2da89212333557947bcd419023fa"
+    },
+    {
+      "memberAddress": "0x7d3d4fe5959f7152467fe07fa1265482cb464ace",
+      "index": "0.125",
+      "daoId": "0x849bc11d576b2da89212333557947bcd419023fa"
+    },
+    {
+      "memberAddress": "0x8db06a6800c088c0e180e5f8c0fc5570fd6177ed",
+      "index": "0.125",
+      "daoId": "0x849bc11d576b2da89212333557947bcd419023fa"
+    },
+    {
+      "memberAddress": "0xb11a5fd3c401c3aeb46d2a0cffce8c2bb6d48003",
+      "index": "0.125",
+      "daoId": "0x849bc11d576b2da89212333557947bcd419023fa"
+    },
+    {
+      "memberAddress": "0xdc385449719e3c271c8bb19e3d824d13756e15d3",
+      "index": "0.125",
+      "daoId": "0x849bc11d576b2da89212333557947bcd419023fa"
+    },
+    {
+      "memberAddress": "0xfd892bb9b092294ec828b4cc4ad8c621030c92b2",
+      "index": "0.125",
+      "daoId": "0x849bc11d576b2da89212333557947bcd419023fa"
+    }
+  ],
+  "0x84b98af95b7ccffb5b7333142ac2043182662801": [
+    {
+      "memberAddress": "0x27773b203954fbbb3e98dfa1a85a99e1c2f40f56",
+      "index": "0",
+      "daoId": "0x84b98af95b7ccffb5b7333142ac2043182662801"
+    },
+    {
+      "memberAddress": "0x67243d6c3c3bdc2f59d2f74ba1949a02973a529d",
+      "index": "0",
+      "daoId": "0x84b98af95b7ccffb5b7333142ac2043182662801"
+    },
+    {
+      "memberAddress": "0xde6bcde54cf040088607199fc541f013ba53c21e",
+      "index": "0",
+      "daoId": "0x84b98af95b7ccffb5b7333142ac2043182662801"
+    },
+    {
+      "memberAddress": "0xa8cadc2268b01395f8573682fb9dd00bd582e8a0",
+      "index": "0",
+      "daoId": "0x84b98af95b7ccffb5b7333142ac2043182662801"
+    }
+  ],
+  "0x853fea54aa815d32ecef67bbb15dc31da963b2d5": [
+    {
+      "memberAddress": "0x57abda4ee50bb3079a556c878b2c345310057569",
+      "index": "0",
+      "daoId": "0x853fea54aa815d32ecef67bbb15dc31da963b2d5"
+    },
+    {
+      "memberAddress": "0xde6bcde54cf040088607199fc541f013ba53c21e",
+      "index": "0",
+      "daoId": "0x853fea54aa815d32ecef67bbb15dc31da963b2d5"
+    }
+  ],
+  "0x8577c1a3caedd9a6bfa431176a9b94474cdffd9c": [
+    {
+      "memberAddress": "0xbc5b552641e5d203f0a6c230aa9dc14da7450053",
+      "index": "0",
+      "daoId": "0x8577c1a3caedd9a6bfa431176a9b94474cdffd9c"
+    },
+    {
+      "memberAddress": "0x8bd9c1ab3527939b431e771adac02cdd9064f8e1",
+      "index": "0",
+      "daoId": "0x8577c1a3caedd9a6bfa431176a9b94474cdffd9c"
+    },
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0",
+      "daoId": "0x8577c1a3caedd9a6bfa431176a9b94474cdffd9c"
+    },
+    {
+      "memberAddress": "0x2619c649d98ddddbb0b218823354fe1d41bf5ce0",
+      "index": "0",
+      "daoId": "0x8577c1a3caedd9a6bfa431176a9b94474cdffd9c"
+    },
+    {
+      "memberAddress": "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "index": "0",
+      "daoId": "0x8577c1a3caedd9a6bfa431176a9b94474cdffd9c"
+    }
+  ],
+  "0x86ea37cb5ddde7649d919db7064cc9607af90142": [
+    {
+      "memberAddress": "0x0ea26051f7657d59418da186137141cea90d0652",
+      "index": "0.08490999999999999936",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0.08472000000000000364",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "index": "0.06593000000000000249",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0xbaf6e57a3940898fd21076b139d4ab231dcbbc5f",
+      "index": "0.06535000000000000531",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0xbebc3a6b4f31028c3492410b78a690f80d2788a3",
+      "index": "0.06547999999999999654",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0x2a8fe25896fcce82c49c2db923abfa4198ad3394",
+      "index": "0.04895000000000000046",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0xbc5b552641e5d203f0a6c230aa9dc14da7450053",
+      "index": "0.05029999999999999749",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0x1c9f765c579f94f6502acd9fc356171d85a1f8d0",
+      "index": "0.03341999999999999832",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0x224aba5d489675a7bd3ce07786fada466b46fa0f",
+      "index": "0.03312999999999999973",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0x392214b7643bfd9aaf8c0475289f77847401ed90",
+      "index": "0.03287000000000000338",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0x57abda4ee50bb3079a556c878b2c345310057569",
+      "index": "0.03280999999999999889",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0x67243d6c3c3bdc2f59d2f74ba1949a02973a529d",
+      "index": "0.03257000000000000173",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0x6f97da40d29ae94002ca2a62eb472e8ba583fa24",
+      "index": "0.03225999999999999701",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0xd083764c39eddb70a749e0c1f808c14706b0cf44",
+      "index": "0.03271000000000000296",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0xde6bcde54cf040088607199fc541f013ba53c21e",
+      "index": "0.03273999999999999827",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0xf100041473280b594d78ab5fa4c44ba81edd367b",
+      "index": "0.03232000000000000151",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0x07fda67513ec0897866098a11dc3858089d4a505",
+      "index": "0.01632000000000000117",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0x0fef92a34ecf1f742b01c9e3cb2732a83c6067b6",
+      "index": "0.01604999999999999830",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0x27773b203954fbbb3e98dfa1a85a99e1c2f40f56",
+      "index": "0.01558999999999999969",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0x511449dd36e5db31980aa0452aaab95b9a68ae99",
+      "index": "0.01577999999999999889",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0x57ffb33cc9d786da4087d970b0b0053017f26afc",
+      "index": "0.01626999999999999974",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0x8e4bdd156e4dd802dd919f4fd2645681ce99a538",
+      "index": "0.01616000000000000075",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0xaf740c4045c1584699947ddb396e4147392a11b5",
+      "index": "0.01617999999999999994",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0xc2207416886ef70e2e8e12515eff83230489384b",
+      "index": "0.01558999999999999969",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0xcaa505e63d8cdef8e34ab585ab49e929dfc766b5",
+      "index": "0.01576999999999999930",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0xccc9d33567912c9d4446ad2298e74084c0e356ee",
+      "index": "0.01658000000000000099",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0xd1d8e452a864388280b714537cbead6ff9e28530",
+      "index": "0.01593999999999999931",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0xd800b05c70a2071bc1e5eac5b3390da1eb67bc9d",
+      "index": "0.01558000000000000010",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0xda5b2cd0d0bb26e79fb3210233ddabdb7de131c9",
+      "index": "0.01566000000000000031",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0xe04885c3f1419c6e8495c33bdcf5f8387cd88846",
+      "index": "0.01669999999999999957",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    },
+    {
+      "memberAddress": "0xf65edf34797567ca62ee0628bb14a47bce7333d7",
+      "index": "0.01536000000000000039",
+      "daoId": "0x86ea37cb5ddde7649d919db7064cc9607af90142"
+    }
+  ],
+  "0x881465463d75a8d6fcd6358f7012514740d3bc6a": [
+    {
+      "memberAddress": "0x505f47d9e722cfacbaea84e4f7a8f85c26a565ce",
+      "index": "0.5",
+      "daoId": "0x881465463d75a8d6fcd6358f7012514740d3bc6a"
+    },
+    {
+      "memberAddress": "0x6fe0fff555839dfcf6190c064ba30b9cea5820ea",
+      "index": "0.5",
+      "daoId": "0x881465463d75a8d6fcd6358f7012514740d3bc6a"
+    }
+  ],
+  "0x88dd7fb4189602eab7ea39b36e14f200e41c89bb": [
+    {
+      "memberAddress": "0xd78c12137087d394c0fa49634caa80d0a1985a8a",
+      "index": "1",
+      "daoId": "0x88dd7fb4189602eab7ea39b36e14f200e41c89bb"
+    }
+  ],
+  "0x8977c56e979f0d8b76afb5ad85549acd2e96422d": [
+    {
+      "memberAddress": "0x405d5f3029f14e75a5c66002d6f9075e08bb6aa5",
+      "index": "0.01763999999999999943",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0xac97b121e11cb6d839be7279f8a386aa854b773f",
+      "index": "0.01763999999999999943",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0xf1fced5b0475a935b49b95786adbda2d40794d2d",
+      "index": "0.01762000000000000025",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x7fe9ec031e05b8470a5477c0d2b8f026ed2ba102",
+      "index": "0.01661999999999999936",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0xdecda4a3ae29c4620ae08b61f6967502459e367d",
+      "index": "0.01668000000000000038",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x088a5b27e3a5f1e85bdc8e464d9631c1130b2065",
+      "index": "0.01679999999999999896",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x18a75252b407f456d55c1ef355291880225cb3cf",
+      "index": "0.01714999999999999858",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x5a3d4de20905a4d27335fbe011e0d21c75a3c257",
+      "index": "0.01779000000000000026",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x5a9f4746eec5248f32eab632cd46fa8f009cd9f8",
+      "index": "0.01705999999999999878",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x67243d6c3c3bdc2f59d2f74ba1949a02973a529d",
+      "index": "0.01623000000000000137",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x69dbdd446db4422bb1d93210b9a7c292246dfbc6",
+      "index": "0.01669999999999999957",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0xc6fcf2600e696a78089c0c9d794d50199aeb41a7",
+      "index": "0.01632000000000000117",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0xf2ddce6633e4a3aa4d09a93a1a850ca2cc322daa",
+      "index": "0.01674000000000000141",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x8ca1d854844abc67aec8dcbf415bb8604476e414",
+      "index": "0.01723999999999999838",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0xda6e2ca279582a272afa2f702146747ee5bb988e",
+      "index": "0.01694000000000000020",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x4d16e0ca8fdf787f8810553cff0ecf54cbbea4ac",
+      "index": "0.01689999999999999836",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0xb5fa4f2cce7657209822c9d21d2c0b0a5a3b2273",
+      "index": "0.01652999999999999955",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x111aad40c4464a0856b4b5637d0beff3112819f7",
+      "index": "0.01653999999999999915",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x1f28588c21769f4c7a7f1d78e348c85078607bb6",
+      "index": "0.01729999999999999941",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x21b36956f0435e3d2c8d63a8515e148b7eb2cc3b",
+      "index": "0.01745000000000000023",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x22094c060b1933aff3b638f944136da3c217bb55",
+      "index": "0.01641000000000000097",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x34f231ee176fa5d04852256d66be96cd00448bf2",
+      "index": "0.01634000000000000036",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x46fef9c604f84a8b0e07eb6436659c29664ce068",
+      "index": "0.01646999999999999853",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x5677d57e09c44370c4893048a06f3f8ae1ff8551",
+      "index": "0.01755999999999999922",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x59479b977ef634e92c76c241a61ef972e736af4d",
+      "index": "0.01684000000000000080",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x6afa2cdea65bd55a47cbb459aa69aa244ca3cdc8",
+      "index": "0.01703000000000000000",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x81e2fa56576bd69b9d7da78d6568ee829e3bb50a",
+      "index": "0.01712999999999999939",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x8b0e81b37ba3e7798a07fd89529f2cae61fbbf0e",
+      "index": "0.01725000000000000144",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x96cdd9c5e4676a1853696c49e73c49dc15f151dd",
+      "index": "0.01719000000000000042",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0xa23ed27a4459eecb4615e5b11371886258e7e2be",
+      "index": "0.01740999999999999839",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0xff9443c44ebee54c5d65b8f45ddfe264e9afc668",
+      "index": "0.01751000000000000126",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x6ce0d91090bfd480999bd22a2517c4b9d9a704a8",
+      "index": "0.01642000000000000057",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x21b5d489641856e00b26e97d00512cf63eca7a25",
+      "index": "0.01684000000000000080",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x237883263f96a4a6f5f2a38553d059b6b198e500",
+      "index": "0.01693000000000000060",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x5001e60c93ef544807a2cb900255c1df00936bf0",
+      "index": "0.01682000000000000162",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x51550ea95088f105e08f9d92cc675ca74e9c2857",
+      "index": "0.01679999999999999896",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x968c7441203b890eabae2ae872a54c3c1d72d766",
+      "index": "0.01694999999999999979",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x1590754d58984ca829e1b62a5da40d7521682f70",
+      "index": "0.01727000000000000063",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x5dfd916b39ab0898a6a75ea0877760f0695c218e",
+      "index": "0.01728000000000000022",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x64e310b1999ea8b4c21bcbd75fbab6b87c25ac39",
+      "index": "0.01668000000000000038",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x70f86473ee484ff1ba5a6a29a3c1e594d35a3d94",
+      "index": "0.01621999999999999831",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0xda4ea032e9720468c3044b4a8e356568cfeb3e03",
+      "index": "0.01779999999999999985",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x07607b8d43254fe5baa016f34759372143939aa2",
+      "index": "0.01662999999999999895",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x0ea26051f7657d59418da186137141cea90d0652",
+      "index": "0.01682000000000000162",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x153e698e686ad5b6019d77a611875fead38bcd7b",
+      "index": "0.01744000000000000064",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x18b456c126b35a4f2f172213ad6a230b71bfa99f",
+      "index": "0.01620999999999999872",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x1b8695e88e932a8dbc8b6a00374dd946c27a8c3e",
+      "index": "0.01685999999999999999",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x2b953e5ea9a210e22f52a9081c5bcc2d4c22fca1",
+      "index": "0.01729999999999999941",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x321195aae1e61647937f205e4b9616015995125c",
+      "index": "0.01693000000000000060",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x461acd846b4cc249b96242f1ab7c72a39d94747c",
+      "index": "0.01674000000000000141",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x4afc0c9a5c4060df2345c5b8c73e8edba2de8e47",
+      "index": "0.01637999999999999873",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x535d64eb74a24883944c9a44c02a2733f929bfff",
+      "index": "0.01737999999999999962",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x5a6c1afa7d14fd608af17d7e58e8db52df5d66ea",
+      "index": "0.01658000000000000099",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x625173e616b443b5d68475666b19d3a010658cbe",
+      "index": "0.01699000000000000163",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x651b6332df533708ae4a25df73b93927addd9083",
+      "index": "0.01719000000000000042",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0x8ec8665cbcc8fba06f7694f1b8b686b8a6d02211",
+      "index": "0.01693000000000000060",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0xa0d3bbc3764b5f3a8d788064a62544fdc25d0334",
+      "index": "0.01689999999999999836",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0xbad31a885ee8d49e84360e5caab599ab2ec29af8",
+      "index": "0.01689999999999999836",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    },
+    {
+      "memberAddress": "0xf4c6a5df9050b15a21aabccbc84ccb31fbdc0846",
+      "index": "0.01677999999999999978",
+      "daoId": "0x8977c56e979f0d8b76afb5ad85549acd2e96422d"
+    }
+  ],
+  "0x897a1b2edd2bdeca918d72eaf88b01283c122a4f": [
+    {
+      "memberAddress": "0x20b6e2fb030f2a61c8e247c30d00aa8de03f7bfd",
+      "index": "1",
+      "daoId": "0x897a1b2edd2bdeca918d72eaf88b01283c122a4f"
+    },
+    {
+      "memberAddress": "0xb0106d980a05cbc390719b76e20a6e90ac40e6de",
+      "index": "0",
+      "daoId": "0x897a1b2edd2bdeca918d72eaf88b01283c122a4f"
+    },
+    {
+      "memberAddress": "0x036a6746b89a44df2a563141eab135394647460a",
+      "index": "0",
+      "daoId": "0x897a1b2edd2bdeca918d72eaf88b01283c122a4f"
+    }
+  ],
+  "0x8acc9ac526802d305ab911db9b9ddba8eeabb8f0": [
+    {
+      "memberAddress": "0xde6bcde54cf040088607199fc541f013ba53c21e",
+      "index": "0",
+      "daoId": "0x8acc9ac526802d305ab911db9b9ddba8eeabb8f0"
+    }
+  ],
+  "0x8b5939d88d3a824ea484a0dc9bc72ba44e9a80d0": [
+    {
+      "memberAddress": "0xb3804949233f98b645ceaa294143e860a32f9a20",
+      "index": "0.33333333333333333333",
+      "daoId": "0x8b5939d88d3a824ea484a0dc9bc72ba44e9a80d0"
+    },
+    {
+      "memberAddress": "0xc7050281da54289d0e6748fb112492a0e961ac97",
+      "index": "0.33333333333333333333",
+      "daoId": "0x8b5939d88d3a824ea484a0dc9bc72ba44e9a80d0"
+    },
+    {
+      "memberAddress": "0xe8f6962f0879ac7d5356a69ee87df542e2e3bad2",
+      "index": "0.33333333333333333333",
+      "daoId": "0x8b5939d88d3a824ea484a0dc9bc72ba44e9a80d0"
+    }
+  ],
+  "0x8b75b465f07aa0b87d12a6015270d5768eaa7617": [
+    {
+      "memberAddress": "0xfd892bb9b092294ec828b4cc4ad8c621030c92b2",
+      "index": "1",
+      "daoId": "0x8b75b465f07aa0b87d12a6015270d5768eaa7617"
+    }
+  ],
+  "0x8bd989848231c68c5f476740c27fe3a98cced5cd": [
+    {
+      "memberAddress": "0xdfb7c410be17f38ecb970efa438db308ca281e23",
+      "index": "1",
+      "daoId": "0x8bd989848231c68c5f476740c27fe3a98cced5cd"
+    }
+  ],
+  "0x8d507807b757b4181524b42b92acc5f2aff45c86": [
+    {
+      "memberAddress": "0x788a8796595ef3f505cacb7b238b6f92cdc72030",
+      "index": "1",
+      "daoId": "0x8d507807b757b4181524b42b92acc5f2aff45c86"
+    },
+    {
+      "memberAddress": "0x06c2c4db3776d500636de63e4f109386dcba6ae2",
+      "index": "0",
+      "daoId": "0x8d507807b757b4181524b42b92acc5f2aff45c86"
+    }
+  ],
+  "0x8dcc8cdbfb97200bd08e05f580c236b3ac655fd8": [
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0",
+      "daoId": "0x8dcc8cdbfb97200bd08e05f580c236b3ac655fd8"
+    },
+    {
+      "memberAddress": "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "index": "0",
+      "daoId": "0x8dcc8cdbfb97200bd08e05f580c236b3ac655fd8"
+    },
+    {
+      "memberAddress": "0xbaf6e57a3940898fd21076b139d4ab231dcbbc5f",
+      "index": "0",
+      "daoId": "0x8dcc8cdbfb97200bd08e05f580c236b3ac655fd8"
+    }
+  ],
+  "0x8ed5d6b07142855b45f8310cf271fc244eafd1c5": [
+    {
+      "memberAddress": "0x4e3a5626654b38a612eb10ce549da220797db2ac",
+      "index": "0",
+      "daoId": "0x8ed5d6b07142855b45f8310cf271fc244eafd1c5"
+    },
+    {
+      "memberAddress": "0x7bc48221928f11184b376da7a57650768dfd3332",
+      "index": "0",
+      "daoId": "0x8ed5d6b07142855b45f8310cf271fc244eafd1c5"
+    },
+    {
+      "memberAddress": "0x8eff71c983d0c35582461e61fdcd0c4f580b9d2b",
+      "index": "0",
+      "daoId": "0x8ed5d6b07142855b45f8310cf271fc244eafd1c5"
+    },
+    {
+      "memberAddress": "0xc872b513113797a10044ce2ebdffcce6c29921ff",
+      "index": "0",
+      "daoId": "0x8ed5d6b07142855b45f8310cf271fc244eafd1c5"
+    }
+  ],
+  "0x8f420423ca9dad68c79b1a6dd74ca1e26c4785f7": [
+    {
+      "memberAddress": "0x57a263a5849b61e834d4268fe59303bedf6f2b94",
+      "index": "0",
+      "daoId": "0x8f420423ca9dad68c79b1a6dd74ca1e26c4785f7"
+    },
+    {
+      "memberAddress": "0xb8e66926ff8c9efa7587b8bcf065f3b108e59bd7",
+      "index": "0",
+      "daoId": "0x8f420423ca9dad68c79b1a6dd74ca1e26c4785f7"
+    }
+  ],
+  "0x90686c7bc22c5b3b1ecd192b5f10b40c4316292d": [
+    {
+      "memberAddress": "0x96d960f4197844a28cff2be6e52a0916e33f8481",
+      "index": "0",
+      "daoId": "0x90686c7bc22c5b3b1ecd192b5f10b40c4316292d"
+    }
+  ],
+  "0x91a066d26e79ff438becf53d6faa56240d1a1cc4": [
+    {
+      "memberAddress": "0x15c6ac4cf1b5e49c44332fb0a1043ccab19db80a",
+      "index": "0",
+      "daoId": "0x91a066d26e79ff438becf53d6faa56240d1a1cc4"
+    },
+    {
+      "memberAddress": "0x2619c649d98ddddbb0b218823354fe1d41bf5ce0",
+      "index": "0",
+      "daoId": "0x91a066d26e79ff438becf53d6faa56240d1a1cc4"
+    },
+    {
+      "memberAddress": "0x27773b203954fbbb3e98dfa1a85a99e1c2f40f56",
+      "index": "0",
+      "daoId": "0x91a066d26e79ff438becf53d6faa56240d1a1cc4"
+    },
+    {
+      "memberAddress": "0x67243d6c3c3bdc2f59d2f74ba1949a02973a529d",
+      "index": "0",
+      "daoId": "0x91a066d26e79ff438becf53d6faa56240d1a1cc4"
+    },
+    {
+      "memberAddress": "0x756ee8b8e898d497043c2320d9909f1dd5a7077f",
+      "index": "0",
+      "daoId": "0x91a066d26e79ff438becf53d6faa56240d1a1cc4"
+    },
+    {
+      "memberAddress": "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "index": "0",
+      "daoId": "0x91a066d26e79ff438becf53d6faa56240d1a1cc4"
+    },
+    {
+      "memberAddress": "0x87690be28b65f13394741c2c2be5a6bdb0505039",
+      "index": "0",
+      "daoId": "0x91a066d26e79ff438becf53d6faa56240d1a1cc4"
+    },
+    {
+      "memberAddress": "0xa8cadc2268b01395f8573682fb9dd00bd582e8a0",
+      "index": "0",
+      "daoId": "0x91a066d26e79ff438becf53d6faa56240d1a1cc4"
+    },
+    {
+      "memberAddress": "0xb5dcfd892b834d34a5f55575a35062c17b65b47d",
+      "index": "0",
+      "daoId": "0x91a066d26e79ff438becf53d6faa56240d1a1cc4"
+    },
+    {
+      "memberAddress": "0xd26a3f686d43f2a62ba9eae2ff77e9f516d945b9",
+      "index": "0",
+      "daoId": "0x91a066d26e79ff438becf53d6faa56240d1a1cc4"
+    }
+  ],
+  "0x96f22ba65e24361bb9eacbcc1ed0c4bbda900938": [
+    {
+      "memberAddress": "0xc00e02e6539376465190b2ca4759bff6fe5f5b81",
+      "index": "0",
+      "daoId": "0x96f22ba65e24361bb9eacbcc1ed0c4bbda900938"
+    },
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0",
+      "daoId": "0x96f22ba65e24361bb9eacbcc1ed0c4bbda900938"
+    },
+    {
+      "memberAddress": "0xda0e92d3d0a0d53a867da8306d8ad9e486956cbb",
+      "index": "0",
+      "daoId": "0x96f22ba65e24361bb9eacbcc1ed0c4bbda900938"
+    }
+  ],
+  "0x9741d98f3451bb8c6129d3f6f523ddc48aec7ef8": [
+    {
+      "memberAddress": "0x9ea86bb338a9bb25761e7b7af37f25f59676eff9",
+      "index": "1",
+      "daoId": "0x9741d98f3451bb8c6129d3f6f523ddc48aec7ef8"
+    }
+  ],
+  "0x97fe0f0a75bff1dc09cf169c91ac2282538b2b76": [
+    {
+      "memberAddress": "0x2619c649d98ddddbb0b218823354fe1d41bf5ce0",
+      "index": "0",
+      "daoId": "0x97fe0f0a75bff1dc09cf169c91ac2282538b2b76"
+    },
+    {
+      "memberAddress": "0x3b999c5b4aaab1f50b24ac7c009774c323dd59a7",
+      "index": "0",
+      "daoId": "0x97fe0f0a75bff1dc09cf169c91ac2282538b2b76"
+    },
+    {
+      "memberAddress": "0x4b13b991f20c20ef69789f4025e173a3bbbbbba5",
+      "index": "0",
+      "daoId": "0x97fe0f0a75bff1dc09cf169c91ac2282538b2b76"
+    }
+  ],
+  "0x98459e426686581e24eab0ba457b821237691e4f": [
+    {
+      "memberAddress": "0x45d46f51c468f81600aa3cbcb9c7608cbf46044f",
+      "index": "0",
+      "daoId": "0x98459e426686581e24eab0ba457b821237691e4f"
+    }
+  ],
+  "0x9a0e41c579debaae3790e1449265f9e03eff5a5d": [
+    {
+      "memberAddress": "0x2715513dbf4eecb1ea94a6f3b2200c1277f3d773",
+      "index": "1",
+      "daoId": "0x9a0e41c579debaae3790e1449265f9e03eff5a5d"
+    }
+  ],
+  "0x9ae90f6178533872a2529a009efc3b177681df49": [
+    {
+      "memberAddress": "0x53315fa129e1cccc51d8575105755505750f5a38",
+      "index": "0",
+      "daoId": "0x9ae90f6178533872a2529a009efc3b177681df49"
+    }
+  ],
+  "0x9bc9ded5d19aa320956b655cd31e17cea9934d17": [
+    {
+      "memberAddress": "0x9ac9c636404c8d46d9eb966d7179983ba5a3941a",
+      "index": "1",
+      "daoId": "0x9bc9ded5d19aa320956b655cd31e17cea9934d17"
+    },
+    {
+      "memberAddress": "0xa5309216f5b5e3fcfb8ed34a9e75a334e97db0d3",
+      "index": "0",
+      "daoId": "0x9bc9ded5d19aa320956b655cd31e17cea9934d17"
+    }
+  ],
+  "0x9d261e245ec8bf63bcc913ca7d32b01be4576e8a": [
+    {
+      "memberAddress": "0x92a0925c3c08c12e6e2185595ff94a49c1dfb5fb",
+      "index": "1",
+      "daoId": "0x9d261e245ec8bf63bcc913ca7d32b01be4576e8a"
+    },
+    {
+      "memberAddress": "0x5ba13aacef2f77f05e9f92b35361ea99d5147057",
+      "index": "0",
+      "daoId": "0x9d261e245ec8bf63bcc913ca7d32b01be4576e8a"
+    },
+    {
+      "memberAddress": "0x8619316393da2094835100c381f091c7f1d2b0fc",
+      "index": "0",
+      "daoId": "0x9d261e245ec8bf63bcc913ca7d32b01be4576e8a"
+    },
+    {
+      "memberAddress": "0xd83d1b0d10901e29db4f5b138a9a9eb98f2533f2",
+      "index": "0",
+      "daoId": "0x9d261e245ec8bf63bcc913ca7d32b01be4576e8a"
+    }
+  ],
+  "0x9d69bf74bdb8fee5c4760fd5593e2f0d192de676": [
+    {
+      "memberAddress": "0x0ea26051f7657d59418da186137141cea90d0652",
+      "index": "0",
+      "daoId": "0x9d69bf74bdb8fee5c4760fd5593e2f0d192de676"
+    }
+  ],
+  "0x9da6b0fb4c85333d2db48a3675711ef416c33fe9": [
+    {
+      "memberAddress": "0xb255f70edfa044674fccd01c099955acc6fc7ff4",
+      "index": "1",
+      "daoId": "0x9da6b0fb4c85333d2db48a3675711ef416c33fe9"
+    }
+  ],
+  "0x9dcf6ac92b090a3ad073a7b2d094a94ce40a12a9": [
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0",
+      "daoId": "0x9dcf6ac92b090a3ad073a7b2d094a94ce40a12a9"
+    }
+  ],
+  "0x9df77c8f278b9d34c8b80e61a9d8054c3f00a228": [
+    {
+      "memberAddress": "0x3b61009a72b9b012ec8490d6f694061b374899cb",
+      "index": "1",
+      "daoId": "0x9df77c8f278b9d34c8b80e61a9d8054c3f00a228"
+    }
+  ],
+  "0x9e0b7b07c11bd632aabe8f8477deaef98b2dda88": [
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0",
+      "daoId": "0x9e0b7b07c11bd632aabe8f8477deaef98b2dda88"
+    },
+    {
+      "memberAddress": "0xc00e02e6539376465190b2ca4759bff6fe5f5b81",
+      "index": "0",
+      "daoId": "0x9e0b7b07c11bd632aabe8f8477deaef98b2dda88"
+    },
+    {
+      "memberAddress": "0xda0e92d3d0a0d53a867da8306d8ad9e486956cbb",
+      "index": "0",
+      "daoId": "0x9e0b7b07c11bd632aabe8f8477deaef98b2dda88"
+    },
+    {
+      "memberAddress": "0x33da8ebdbd10da596885ab54f535045896b74303",
+      "index": "0",
+      "daoId": "0x9e0b7b07c11bd632aabe8f8477deaef98b2dda88"
+    }
+  ],
+  "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20": [
+    {
+      "memberAddress": "0x461cde402c6b945036df1b49f2703fca22b23d7b",
+      "index": "0.04526000000000000162",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0x573a0fd96f027069b734b7e5039b4a7c9502df34",
+      "index": "0.04531999999999999917",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0x668fe1c5cc84488a74f7fc4961cdfe6129f931d4",
+      "index": "0.04490000000000000241",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0xfa20d0e606e3ed73dae6ce3b3744cbe4b25a4002",
+      "index": "0.04605999999999999678",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0x0e25bbe04acab9a7d10563b1cb48f05076013cf7",
+      "index": "0.04615999999999999964",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0x536299a4fcf0d1d492596c2c816fc20f3f7ec557",
+      "index": "0.04399000000000000132",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0x57efcc7607cd2da49d73e8f9c88ed114cbdc5cf7",
+      "index": "0.04476999999999999730",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0x6abb5e04e3fe1e7a0cf4e69edb2438f57d6a214c",
+      "index": "0.04481999999999999873",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0x9f5f83e27b542814325c6a0bad269454bd36de7e",
+      "index": "0.04626999999999999863",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0x0fef92a34ecf1f742b01c9e3cb2732a83c6067b6",
+      "index": "0.04494000000000000078",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0x5787163458669c0364e5fc7d01fe67106a75acd2",
+      "index": "0.04703000000000000236",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0x58f123bd4261ea25955b362be57d89f4b6e7110a",
+      "index": "0.04612999999999999740",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0x66b1de0f14a0ce971f7f248415063d44caf19398",
+      "index": "0.04576000000000000206",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0x67243d6c3c3bdc2f59d2f74ba1949a02973a529d",
+      "index": "0.04449000000000000177",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0x865c2f85c9fea1c6ac7f53de07554d68cb92ed88",
+      "index": "0.04485000000000000098",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0x87690be28b65f13394741c2c2be5a6bdb0505039",
+      "index": "0.04558999999999999858",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0x914aa366fc6af1cef6d8b98dd24b2842e0d14c39",
+      "index": "0.04472999999999999893",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0x9d80b858aff1c205f0b28e780dcd92f3f9293bd1",
+      "index": "0.04676000000000000295",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0xbde71618ef4da437b0406da72c16e80b08d6cd45",
+      "index": "0.04487000000000000016",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0xc02771315d0958f23a64140160e78ecb9bb8614e",
+      "index": "0.04501999999999999752",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0xd26a3f686d43f2a62ba9eae2ff77e9f516d945b9",
+      "index": "0.04657000000000000028",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    },
+    {
+      "memberAddress": "0xe04885c3f1419c6e8495c33bdcf5f8387cd88846",
+      "index": "0.04571000000000000063",
+      "daoId": "0xa0b170f7136bf48ce7ee912ae2a271e62cbddc20"
+    }
+  ],
+  "0xa12ba7c97d426edae202bff36927a2282ad642ba": [
+    {
+      "memberAddress": "0x083d044260f99e9eb9f30dc4e594a469137c4acd",
+      "index": "0.5",
+      "daoId": "0xa12ba7c97d426edae202bff36927a2282ad642ba"
+    },
+    {
+      "memberAddress": "0x93ec73ddb68db4f3a502c85d4e567d914f65083d",
+      "index": "0.5",
+      "daoId": "0xa12ba7c97d426edae202bff36927a2282ad642ba"
+    }
+  ],
+  "0xa460b87b7107914ff0436e9bf69aa4861071fc7c": [
+    {
+      "memberAddress": "0x680c6dfed9c6e80afcec0224a27982f778614aad",
+      "index": "1",
+      "daoId": "0xa460b87b7107914ff0436e9bf69aa4861071fc7c"
+    },
+    {
+      "memberAddress": "0xbea9d2514ac86f46aff198280da5465b007d45b5",
+      "index": "0",
+      "daoId": "0xa460b87b7107914ff0436e9bf69aa4861071fc7c"
+    }
+  ],
+  "0xa7a23736dc252897398adb6394ccc39249dca2af": [
+    {
+      "memberAddress": "0x6ef543d0cce1171f696f82cb6f698133037d5b32",
+      "index": "1",
+      "daoId": "0xa7a23736dc252897398adb6394ccc39249dca2af"
+    }
+  ],
+  "0xa99f868a25e05704214b80b9ee0fbe64ade37a5b": [
+    {
+      "memberAddress": "0xd974738590cab97ecf0710d704426006a0679d4c",
+      "index": "1",
+      "daoId": "0xa99f868a25e05704214b80b9ee0fbe64ade37a5b"
+    }
+  ],
+  "0xab6781e7ace00f344eebc8ba30446cdebbe3848f": [
+    {
+      "memberAddress": "0x3fad8bcd2aea732d02a203c156b19205253f2a06",
+      "index": "1",
+      "daoId": "0xab6781e7ace00f344eebc8ba30446cdebbe3848f"
+    }
+  ],
+  "0xae7dc9239cf245acb78ffb6c263f2eca54d143a4": [
+    {
+      "memberAddress": "0x6d6803fba7ca68914800885604b26af2233158ac",
+      "index": "1",
+      "daoId": "0xae7dc9239cf245acb78ffb6c263f2eca54d143a4"
+    }
+  ],
+  "0xaecedb8e617fac1fbbc882cebb62c4d178ac3e3e": [
+    {
+      "memberAddress": "0x9ea86bb338a9bb25761e7b7af37f25f59676eff9",
+      "index": "1",
+      "daoId": "0xaecedb8e617fac1fbbc882cebb62c4d178ac3e3e"
+    }
+  ],
+  "0xb10e57232b188419e46db3b4b03b4e651951b3fe": [
+    {
+      "memberAddress": "0xfb2030a14d951a2b2c090f13a26c79a144f58267",
+      "index": "1",
+      "daoId": "0xb10e57232b188419e46db3b4b03b4e651951b3fe"
+    }
+  ],
+  "0xb373b3f24ad18ffccae4404fb7b5e670988f7cf7": [
+    {
+      "memberAddress": "0x516cafd745ec780d20f61c0d71fe258ea765222d",
+      "index": "0.33333333333333333333",
+      "daoId": "0xb373b3f24ad18ffccae4404fb7b5e670988f7cf7"
+    },
+    {
+      "memberAddress": "0x603185043f3b4e1342b734dfe77c0d3e0297fc7a",
+      "index": "0.33333333333333333333",
+      "daoId": "0xb373b3f24ad18ffccae4404fb7b5e670988f7cf7"
+    },
+    {
+      "memberAddress": "0xa7a5a2745f10d5c23d75a6fd228a408cede1cae5",
+      "index": "0.33333333333333333333",
+      "daoId": "0xb373b3f24ad18ffccae4404fb7b5e670988f7cf7"
+    },
+    {
+      "memberAddress": "0x0ed6d86dbff89a32ec482d9c4ea54a68fc45a9f7",
+      "index": "0",
+      "daoId": "0xb373b3f24ad18ffccae4404fb7b5e670988f7cf7"
+    }
+  ],
+  "0xb41ae3111d53f4942d89639cf641c8de691c3a68": [
+    {
+      "memberAddress": "0xbc5b552641e5d203f0a6c230aa9dc14da7450053",
+      "index": "0",
+      "daoId": "0xb41ae3111d53f4942d89639cf641c8de691c3a68"
+    }
+  ],
+  "0xb48aaabd52908ce1230f227bd832625def0674f9": [
+    {
+      "memberAddress": "0x914aa366fc6af1cef6d8b98dd24b2842e0d14c39",
+      "index": "0.33333333333333333333",
+      "daoId": "0xb48aaabd52908ce1230f227bd832625def0674f9"
+    },
+    {
+      "memberAddress": "0xc2b663ede119fa141d8acf7fa3ef30b08b894f8d",
+      "index": "0.33333333333333333333",
+      "daoId": "0xb48aaabd52908ce1230f227bd832625def0674f9"
+    },
+    {
+      "memberAddress": "0xecfb5a9ee9c283c2973799c14b31ddde4845eaf0",
+      "index": "0.33333333333333333333",
+      "daoId": "0xb48aaabd52908ce1230f227bd832625def0674f9"
+    }
+  ],
+  "0xb50dd169c3a823288a3412312c6d44dd50fa5084": [
+    {
+      "memberAddress": "0x0ea26051f7657d59418da186137141cea90d0652",
+      "index": "0",
+      "daoId": "0xb50dd169c3a823288a3412312c6d44dd50fa5084"
+    }
+  ],
+  "0xb5ef372ff72169f4458c967b5c1f04034e88b9ee": [
+    {
+      "memberAddress": "0x585eb5867a9cfb1d5db474c5d4e1c62ff52670f1",
+      "index": "1",
+      "daoId": "0xb5ef372ff72169f4458c967b5c1f04034e88b9ee"
+    }
+  ],
+  "0xb94ce45ee5fbe50b5aa04c877bbbc2d385608f0e": [
+    {
+      "memberAddress": "0xed1540136bed6b6fa813b44ee016ce65d5641e4b",
+      "index": "0",
+      "daoId": "0xb94ce45ee5fbe50b5aa04c877bbbc2d385608f0e"
+    }
+  ],
+  "0xba5a5a3b0d6c7a2e37e171fadc2b35671fa1289b": [
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0",
+      "daoId": "0xba5a5a3b0d6c7a2e37e171fadc2b35671fa1289b"
+    }
+  ],
+  "0xbf9137f70fe6f53cc5c9c0af1f616328c5c8e85e": [
+    {
+      "memberAddress": "0x81d349a5e2f01ab94ad9f8e16bd2be67503ec328",
+      "index": "1",
+      "daoId": "0xbf9137f70fe6f53cc5c9c0af1f616328c5c8e85e"
+    }
+  ],
+  "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769": [
+    {
+      "memberAddress": "0x187089b33e5812310ed32a57f53b3fad0383a19d",
+      "index": "0.01009999999999999960",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xbc5b552641e5d203f0a6c230aa9dc14da7450053",
+      "index": "0.01021999999999999992",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "index": "0.01000999999999999980",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x7136fbddd4dffa2369a9283b6e90a040318011ca",
+      "index": "0.01024000000000000084",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x68f272fcaae074cb33e68d88a32c325ed0df8379",
+      "index": "0.00962999999999999967",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x66b1de0f14a0ce971f7f248415063d44caf19398",
+      "index": "0.01012000000000000052",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x775af9b7c214fe8792ab5f5da61a8708591d517e",
+      "index": "0.01046000000000000055",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0.00988999999999999949",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xed544324de3699006840550181b6a7a3b3d934fb",
+      "index": "0.01017999999999999981",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x0860950e0b91807d3abbad88ac7321dcf19e5c90",
+      "index": "0.00971999999999999947",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x884ff907d5fb8bae239b64aa8ad18ba3f8196038",
+      "index": "0.01038000000000000034",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x09e1ac8489c9fd339eaefdc5ce8651ee22cdb7fc",
+      "index": "0.01004000000000000031",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x0eabffd8ce94ab2387fc44ba32642af0c58af433",
+      "index": "0.01000999999999999980",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x0fef92a34ecf1f742b01c9e3cb2732a83c6067b6",
+      "index": "0.01007000000000000083",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x1dcd8763c01961c2bbb5ed58c6e51f55b1378589",
+      "index": "0.01020000000000000073",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x1df428833f2c9fb1ef098754e5d710432450d706",
+      "index": "0.00945999999999999966",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x224aba5d489675a7bd3ce07786fada466b46fa0f",
+      "index": "0.01007000000000000083",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x2619c649d98ddddbb0b218823354fe1d41bf5ce0",
+      "index": "0.00961000000000000049",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x2c3dd65e94f97b2a25239eddffd2e192c08769b8",
+      "index": "0.00984999999999999938",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x34aa3f359a9d614239015126635ce7732c18fdf3",
+      "index": "0.01058000000000000086",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x37a5d178b65914d28fbaaf726d3b53dcb75f548b",
+      "index": "0.01005999999999999950",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x476547d8472407cb05acc4b3b8a5431871d0d072",
+      "index": "0.00976999999999999917",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x50560bcac974e8ffb2ae2c359614623147a96105",
+      "index": "0.01003000000000000072",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x58e2b4d76f66f2e71d1db865c4f4c8e9adcc13c0",
+      "index": "0.01000999999999999980",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x58f123bd4261ea25955b362be57d89f4b6e7110a",
+      "index": "0.01026000000000000002",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x67243d6c3c3bdc2f59d2f74ba1949a02973a529d",
+      "index": "0.00959999999999999916",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "index": "0.01005999999999999950",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x6e36ae6b1eca3ba5aa5057c26dd1403a05be0273",
+      "index": "0.00973000000000000080",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x73f19c4e5ffc335932afebf382def646f600e64a",
+      "index": "0.01095999999999999926",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x7779f8144951811c8d7418a6cf4aa58f65e221b3",
+      "index": "0.00997999999999999929",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x77fb4fa1aba92576942ad34bc47834059b84e693",
+      "index": "0.01067000000000000066",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x856888d67545afc0b78c4b295c56f15bdc5661ca",
+      "index": "0.00990000000000000081",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x914aa366fc6af1cef6d8b98dd24b2842e0d14c39",
+      "index": "0.01055000000000000035",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x9f8d1c9c54a7dcbf242012f158b1594f17ef4211",
+      "index": "0.00993999999999999918",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xa6684f5984fa44527d58bc9dec82f93f11ff4c4b",
+      "index": "0.01018999999999999941",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xa69656dee6721ff43506477fb522efef151e4477",
+      "index": "0.01041000000000000085",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xa7a5a2745f10d5c23d75a6fd228a408cede1cae5",
+      "index": "0.01009000000000000001",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xae89af4b16a86bfe883321cee4eea9975241ce68",
+      "index": "0.00974999999999999999",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xb2e0f4dee26cccf1f3a267ad185f212dd3e7a6b1",
+      "index": "0.01034000000000000023",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xbfc7cae0fad9b346270ae8fde24827d2d779ef07",
+      "index": "0.00996000000000000010",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xcb42ac441fcade3935243ea118701f39aa004486",
+      "index": "0.00942999999999999915",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xd26a3f686d43f2a62ba9eae2ff77e9f516d945b9",
+      "index": "0.01005999999999999950",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xe04885c3f1419c6e8495c33bdcf5f8387cd88846",
+      "index": "0.01058000000000000086",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xe4cc688726dd0a1f8c464054ea1a1218d0cd9fc4",
+      "index": "0.01001999999999999939",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xeb54d707252ee9e26e6a4073680bf71154ce7ab5",
+      "index": "0.01016000000000000063",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xfacef700458d4fc9746f7f3e0d37b462711ff09e",
+      "index": "0.01014999999999999930",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+      "index": "0.00954999999999999946",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x00000000005dbcb0d0513fcda746382fe8a53468",
+      "index": "0.00953999999999999987",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x79d31bfca5fda7a4f15b36763d2e44c99d811a6c",
+      "index": "0.01043999999999999963",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xec952ed8e7c2aa466cac36fd611d2e87df1243d7",
+      "index": "0.01043999999999999963",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xa33d364acac268068fdbd265a9305c36c699cec2",
+      "index": "0.01014999999999999930",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x28a63e5ea686713345e336905465d112c3d9d494",
+      "index": "0.01026000000000000002",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x2d60f23aed1d7eb1aa18d0b954eac509e93635e7",
+      "index": "0.01026000000000000002",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x3dfacd79e9a4de85b1b8fb16a0c62dc6971424fd",
+      "index": "0.00996999999999999970",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x7434672e89b055fd02deebef203738cf0802c01b",
+      "index": "0.01008000000000000042",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xa2f60cd9e755ded6ac6772afb717fa2c522ae30d",
+      "index": "0.00996999999999999970",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xc8263aa733c96154a1e1afd692eec3d567f3ed43",
+      "index": "0.00966999999999999978",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xd714dd60e22bbb1cbafd0e40de5cfa7bbdd3f3c8",
+      "index": "0.00991000000000000041",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xd76ff76ac8019c99237bde08d7c39dab5481bed2",
+      "index": "0.00957999999999999997",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xda6d1f091b672c0f9e215eb9fa6b5a84bf2c5e11",
+      "index": "0.00987000000000000030",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xeab5ecc6a488fc6896c5a9b45c5b6a1cdb3aff70",
+      "index": "0.01003000000000000072",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xd1d8e452a864388280b714537cbead6ff9e28530",
+      "index": "0.01020000000000000073",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x094e4b82a5722271546cca99c8c351bd840669ae",
+      "index": "0.01044999999999999922",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x1258b93cc472ebe7d97d16947ab82a7189b4dee2",
+      "index": "0.00979000000000000009",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x14980e81723c99128d267ad76840f02b11d7d0cc",
+      "index": "0.00982000000000000060",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x1a9cee6e1d21c3c09fb83a980ea54299f01920cd",
+      "index": "0.01003000000000000072",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x1c9f765c579f94f6502acd9fc356171d85a1f8d0",
+      "index": "0.00953999999999999987",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x1fde40a4046eda0ca0539dd6c77abf8933b94260",
+      "index": "0.01004999999999999991",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x2999fe533bc08a03304c96e8668bfa17d9d0d35b",
+      "index": "0.00963999999999999926",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x65bef05a96e09ef3f75bf4c6007dde62901d0c78",
+      "index": "0.01065999999999999934",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x6768050b4971f2fea3f22cdb68e6cd0055b216b0",
+      "index": "0.00982000000000000060",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x826976d7c600d45fb8287ca1d7c76fc8eb732030",
+      "index": "0.01009000000000000001",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x8451727d424b5b283f2305734f8676aec617b813",
+      "index": "0.01026999999999999962",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x8760e565273b47195f76a22455ce0b68a11af5b5",
+      "index": "0.01014999999999999930",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x89b935d90b919a9e0182800399359bdb4dc6cf5a",
+      "index": "0.01016000000000000063",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x8f989aa06d3bf5dbe8c7b84020dcb123ae86942e",
+      "index": "0.01068000000000000026",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xb03f5438f9a243de5c3b830b7841ec315034cd5f",
+      "index": "0.01026000000000000002",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xb22981ba3fe1de2325935c91a3b717168fb86714",
+      "index": "0.00962000000000000008",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xbc004505c21913049de9dc342e58a77871b7430f",
+      "index": "0.00940999999999999996",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xbc4a2b0b65e39bae9bedad1798b824eaf0a60639",
+      "index": "0.00929999999999999924",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xd4786cda66e176173568ce26343135543a3f04cb",
+      "index": "0.00966999999999999978",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xde2be7c9c542c55a7a77489a3a7745493988947f",
+      "index": "0.00980999999999999928",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xe4b420f15d6d878dcd0df7120ac0fc1509ee9cab",
+      "index": "0.01001999999999999939",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xf121163a94d094d099e3ad2b0decb65f97b6fecf",
+      "index": "0.00979000000000000009",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x68c10776c5c05cbf5b4c2318be02d61b9f06b875",
+      "index": "0.01012000000000000052",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x86aecfc1e3973108ce14b9b741a99d3466127170",
+      "index": "0.01043000000000000003",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xb6d052d6f5921d52c1c14b69a02de04f840cefcd",
+      "index": "0.00971999999999999947",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xbeb5a64793ec486b080063d3b662f2131fac0f52",
+      "index": "0.00922000000000000076",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xd1bea81dd97d4fcebc5b25686bdca04deff3991f",
+      "index": "0.00963999999999999926",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xda5b2cd0d0bb26e79fb3210233ddabdb7de131c9",
+      "index": "0.00953999999999999987",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xdf73fe01dfddb55a900b947c5726b2e54dddd95a",
+      "index": "0.00997999999999999929",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xe8d848debb3a3e12aa815b15900c8e020b863f31",
+      "index": "0.00940999999999999996",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x87690be28b65f13394741c2c2be5a6bdb0505039",
+      "index": "0.01000000000000000021",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xf4bb53efcfd49fe036fdcc8f46d981203ae3bab8",
+      "index": "0.01017000000000000022",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xe68967c95f5a9bccfdd711a2cbc23ec958f147ef",
+      "index": "0.00970000000000000029",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x0e3ac4c1e24af86022e3da039966f9d3c641bf93",
+      "index": "0.00980999999999999928",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x7b86f576669f8d20a8244dabefc65b31d7deb3f2",
+      "index": "0.00992999999999999959",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x0e707ab69944829ca6377e8f3aeb0c9709b633f7",
+      "index": "0.00949000000000000017",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0x9792566b78fc5ca0ab5270f3c396031443c5d05c",
+      "index": "0.01021000000000000033",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    },
+    {
+      "memberAddress": "0xff8592a0e6acf8975b5b9b6643eb20ad2550ca89",
+      "index": "0.01017999999999999981",
+      "daoId": "0xc17f71ecd0c9d8a5ecc455c56ec553d14505d769"
+    }
+  ],
+  "0xc197931d784b8c1a0a206d14551c71a6088842ca": [
+    {
+      "memberAddress": "0x1c9f765c579f94f6502acd9fc356171d85a1f8d0",
+      "index": "0.33333333333333333333",
+      "daoId": "0xc197931d784b8c1a0a206d14551c71a6088842ca"
+    },
+    {
+      "memberAddress": "0x81865ebc7694dfba6608f6503bba50abb04644b4",
+      "index": "0.33333333333333333333",
+      "daoId": "0xc197931d784b8c1a0a206d14551c71a6088842ca"
+    },
+    {
+      "memberAddress": "0xd083764c39eddb70a749e0c1f808c14706b0cf44",
+      "index": "0.33333333333333333333",
+      "daoId": "0xc197931d784b8c1a0a206d14551c71a6088842ca"
+    }
+  ],
+  "0xc1a5e99dd088f191fd41a0d6733176f3bbe0704d": [
+    {
+      "memberAddress": "0x19a8eb80c1483ceaa1278b16c5d5ef0104f85905",
+      "index": "0",
+      "daoId": "0xc1a5e99dd088f191fd41a0d6733176f3bbe0704d"
+    },
+    {
+      "memberAddress": "0x1a9cee6e1d21c3c09fb83a980ea54299f01920cd",
+      "index": "0",
+      "daoId": "0xc1a5e99dd088f191fd41a0d6733176f3bbe0704d"
+    },
+    {
+      "memberAddress": "0x34bfcd82f1e3dac79c6b3d033ab871ee4f6aaeca",
+      "index": "0",
+      "daoId": "0xc1a5e99dd088f191fd41a0d6733176f3bbe0704d"
+    }
+  ],
+  "0xc4c2f72157e502a6980dcdf75744c7a83f6ffcfd": [
+    {
+      "memberAddress": "0x2f51e78ff8aec6a941c4ceeeb26b4a1f03737c50",
+      "index": "0",
+      "daoId": "0xc4c2f72157e502a6980dcdf75744c7a83f6ffcfd"
+    },
+    {
+      "memberAddress": "0x2559ff0f61870134a1d75ce3f271878dcdb0eee1",
+      "index": "0",
+      "daoId": "0xc4c2f72157e502a6980dcdf75744c7a83f6ffcfd"
+    },
+    {
+      "memberAddress": "0xd1d8e452a864388280b714537cbead6ff9e28530",
+      "index": "0",
+      "daoId": "0xc4c2f72157e502a6980dcdf75744c7a83f6ffcfd"
+    },
+    {
+      "memberAddress": "0x7bc48221928f11184b376da7a57650768dfd3332",
+      "index": "0",
+      "daoId": "0xc4c2f72157e502a6980dcdf75744c7a83f6ffcfd"
+    },
+    {
+      "memberAddress": "0x99f5a4431d084f11d6ee97d7602412267bf8478f",
+      "index": "0",
+      "daoId": "0xc4c2f72157e502a6980dcdf75744c7a83f6ffcfd"
+    },
+    {
+      "memberAddress": "0x503a5161d1c5d9d82bf35a4c80da0c3ad72d9244",
+      "index": "0",
+      "daoId": "0xc4c2f72157e502a6980dcdf75744c7a83f6ffcfd"
+    },
+    {
+      "memberAddress": "0xc8556b027f83b004ac7673c6645778d262eeaed4",
+      "index": "0",
+      "daoId": "0xc4c2f72157e502a6980dcdf75744c7a83f6ffcfd"
+    },
+    {
+      "memberAddress": "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+      "index": "0",
+      "daoId": "0xc4c2f72157e502a6980dcdf75744c7a83f6ffcfd"
+    },
+    {
+      "memberAddress": "0x7b86f576669f8d20a8244dabefc65b31d7deb3f2",
+      "index": "0",
+      "daoId": "0xc4c2f72157e502a6980dcdf75744c7a83f6ffcfd"
+    },
+    {
+      "memberAddress": "0xccc9d33567912c9d4446ad2298e74084c0e356ee",
+      "index": "0",
+      "daoId": "0xc4c2f72157e502a6980dcdf75744c7a83f6ffcfd"
+    },
+    {
+      "memberAddress": "0xe5c52c80749cf06ff8916b041cc6ca8be4feb0cd",
+      "index": "0",
+      "daoId": "0xc4c2f72157e502a6980dcdf75744c7a83f6ffcfd"
+    }
+  ],
+  "0xc5a6261f39307b4eab4ef6f6e5cc249d97d7d42a": [
+    {
+      "memberAddress": "0x30d9aa5bc4e32a9ad075ed6761e022322a7e1c18",
+      "index": "0.5",
+      "daoId": "0xc5a6261f39307b4eab4ef6f6e5cc249d97d7d42a"
+    },
+    {
+      "memberAddress": "0xb255f70edfa044674fccd01c099955acc6fc7ff4",
+      "index": "0.5",
+      "daoId": "0xc5a6261f39307b4eab4ef6f6e5cc249d97d7d42a"
+    }
+  ],
+  "0xc6656ad3ea6de42003ea80334f056783964c5c56": [
+    {
+      "memberAddress": "0xfea7e0bba3added7b6b29e7c7fb42ac5c49de5f7",
+      "index": "1",
+      "daoId": "0xc6656ad3ea6de42003ea80334f056783964c5c56"
+    }
+  ],
+  "0xcca93467b7ac7ad16ead48298ee4854daa115e42": [
+    {
+      "memberAddress": "0x2dc794d790115236b135ce705fc9e123e9ea0f14",
+      "index": "0",
+      "daoId": "0xcca93467b7ac7ad16ead48298ee4854daa115e42"
+    }
+  ],
+  "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e": [
+    {
+      "memberAddress": "0xbc5b552641e5d203f0a6c230aa9dc14da7450053",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0x1c9f765c579f94f6502acd9fc356171d85a1f8d0",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0x986e92868a27548a31e88f7692e746cd7e86f39a",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0x0729510d6ba37f5ab0f6a544599a09559a8c70a1",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0x07fda67513ec0897866098a11dc3858089d4a505",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0x187089b33e5812310ed32a57f53b3fad0383a19d",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0x27773b203954fbbb3e98dfa1a85a99e1c2f40f56",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0x4accdfd779e8fa60a3686030a6eb36d663399e13",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0x536299a4fcf0d1d492596c2c816fc20f3f7ec557",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0x68f272fcaae074cb33e68d88a32c325ed0df8379",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0x9e3ac11d3a206b87528393969c1a54b16a672807",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0xa7a5a2745f10d5c23d75a6fd228a408cede1cae5",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0xa8cadc2268b01395f8573682fb9dd00bd582e8a0",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0xa95fae5214576913d6cf4bf6df5b5936350e50d9",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0xcaa505e63d8cdef8e34ab585ab49e929dfc766b5",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0xda5b2cd0d0bb26e79fb3210233ddabdb7de131c9",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0xde6bcde54cf040088607199fc541f013ba53c21e",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0xe04885c3f1419c6e8495c33bdcf5f8387cd88846",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0xe8d848debb3a3e12aa815b15900c8e020b863f31",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    },
+    {
+      "memberAddress": "0xf4bb53efcfd49fe036fdcc8f46d981203ae3bab8",
+      "index": "0",
+      "daoId": "0xd1c6dfed8515c38da51d2dab9691a80ed3796f4e"
+    }
+  ],
+  "0xd20b353d1d7552087341ecf9a6c9eaf49aeb3b9c": [
+    {
+      "memberAddress": "0xb2463ab833b4aed1575a68b3311d7dc1bdfe914d",
+      "index": "0.38333333333333333333",
+      "daoId": "0xd20b353d1d7552087341ecf9a6c9eaf49aeb3b9c"
+    },
+    {
+      "memberAddress": "0x078071e22d20b4818bebc0ec02399769e53d360a",
+      "index": "0.22142857142857142857",
+      "daoId": "0xd20b353d1d7552087341ecf9a6c9eaf49aeb3b9c"
+    },
+    {
+      "memberAddress": "0x71344e9f462b8d9c536497d23108b53ceefc76d3",
+      "index": "0.11190476190476190476",
+      "daoId": "0xd20b353d1d7552087341ecf9a6c9eaf49aeb3b9c"
+    },
+    {
+      "memberAddress": "0xa1daf832cbcd6925063f2bd91a2a1a4ae58fe5db",
+      "index": "0.11190476190476190476",
+      "daoId": "0xd20b353d1d7552087341ecf9a6c9eaf49aeb3b9c"
+    },
+    {
+      "memberAddress": "0x4d157f81b5567e80162419963eb31c2a626e4806",
+      "index": "0.05714285714285714285",
+      "daoId": "0xd20b353d1d7552087341ecf9a6c9eaf49aeb3b9c"
+    },
+    {
+      "memberAddress": "0xe121216cd069f81e83f545921b3c5b12d3e7016b",
+      "index": "0.05714285714285714285",
+      "daoId": "0xd20b353d1d7552087341ecf9a6c9eaf49aeb3b9c"
+    },
+    {
+      "memberAddress": "0x7256b148da99e24e73554681250014a78939faf9",
+      "index": "0.02857142857142857142",
+      "daoId": "0xd20b353d1d7552087341ecf9a6c9eaf49aeb3b9c"
+    },
+    {
+      "memberAddress": "0xa19bba98145de26643e572403fcb929037d58741",
+      "index": "0.02857142857142857142",
+      "daoId": "0xd20b353d1d7552087341ecf9a6c9eaf49aeb3b9c"
+    }
+  ],
+  "0xd23e7bcf2ea52fe2d4d5ed7dd3b00c9f751d34b0": [
+    {
+      "memberAddress": "0x1c9f765c579f94f6502acd9fc356171d85a1f8d0",
+      "index": "0.5",
+      "daoId": "0xd23e7bcf2ea52fe2d4d5ed7dd3b00c9f751d34b0"
+    },
+    {
+      "memberAddress": "0x8d01fb552d1ad4e341fab2cfe09151dae20d02bc",
+      "index": "0.5",
+      "daoId": "0xd23e7bcf2ea52fe2d4d5ed7dd3b00c9f751d34b0"
+    }
+  ],
+  "0xd2de52d03dd09ac3003c448d68d5b2ee1fbac0bc": [
+    {
+      "memberAddress": "0x25d5c9dbc1e12163b973261a08739927e4f72ba8",
+      "index": "0.5",
+      "daoId": "0xd2de52d03dd09ac3003c448d68d5b2ee1fbac0bc"
+    },
+    {
+      "memberAddress": "0xeaa9185c70902c56d4f8147bd71830ecce26c780",
+      "index": "0.5",
+      "daoId": "0xd2de52d03dd09ac3003c448d68d5b2ee1fbac0bc"
+    }
+  ],
+  "0xd73f93548d42ac702e46f70c109f54860debcfbc": [
+    {
+      "memberAddress": "0x466dd240a66a92bad10ed3a54567683ac32a0030",
+      "index": "1",
+      "daoId": "0xd73f93548d42ac702e46f70c109f54860debcfbc"
+    }
+  ],
+  "0xd83a5fe08ce81a97db04409cf07db3e4c5be04ec": [
+    {
+      "memberAddress": "0x466dd240a66a92bad10ed3a54567683ac32a0030",
+      "index": "1",
+      "daoId": "0xd83a5fe08ce81a97db04409cf07db3e4c5be04ec"
+    }
+  ],
+  "0xd84d75ca8b783b48236dec78d0b3bc0ebf95089e": [
+    {
+      "memberAddress": "0x4e3a5626654b38a612eb10ce549da220797db2ac",
+      "index": "0",
+      "daoId": "0xd84d75ca8b783b48236dec78d0b3bc0ebf95089e"
+    },
+    {
+      "memberAddress": "0x7bc48221928f11184b376da7a57650768dfd3332",
+      "index": "0",
+      "daoId": "0xd84d75ca8b783b48236dec78d0b3bc0ebf95089e"
+    },
+    {
+      "memberAddress": "0x8eff71c983d0c35582461e61fdcd0c4f580b9d2b",
+      "index": "0",
+      "daoId": "0xd84d75ca8b783b48236dec78d0b3bc0ebf95089e"
+    },
+    {
+      "memberAddress": "0xc872b513113797a10044ce2ebdffcce6c29921ff",
+      "index": "0",
+      "daoId": "0xd84d75ca8b783b48236dec78d0b3bc0ebf95089e"
+    }
+  ],
+  "0xda17dc8b2cb3f3a58b7fc9d911cd441318603ec5": [
+    {
+      "memberAddress": "0x0ea26051f7657d59418da186137141cea90d0652",
+      "index": "0.14102564102564102564",
+      "daoId": "0xda17dc8b2cb3f3a58b7fc9d911cd441318603ec5"
+    },
+    {
+      "memberAddress": "0x2f1cd4d242a59df7d4f3b39ac68721afba58bc24",
+      "index": "0.14102564102564102564",
+      "daoId": "0xda17dc8b2cb3f3a58b7fc9d911cd441318603ec5"
+    },
+    {
+      "memberAddress": "0x24307a5884acfb5e683d3f10aaa3d824eba33343",
+      "index": "0.06526806526806526806",
+      "daoId": "0xda17dc8b2cb3f3a58b7fc9d911cd441318603ec5"
+    },
+    {
+      "memberAddress": "0x25d5c9dbc1e12163b973261a08739927e4f72ba8",
+      "index": "0.06526806526806526806",
+      "daoId": "0xda17dc8b2cb3f3a58b7fc9d911cd441318603ec5"
+    },
+    {
+      "memberAddress": "0x2faf1f50a137784a6a6a978b037d781ef84055bd",
+      "index": "0.06526806526806526806",
+      "daoId": "0xda17dc8b2cb3f3a58b7fc9d911cd441318603ec5"
+    },
+    {
+      "memberAddress": "0x34eb91274fd8eb01fdd6360c4496ab5dca587373",
+      "index": "0.06526806526806526806",
+      "daoId": "0xda17dc8b2cb3f3a58b7fc9d911cd441318603ec5"
+    },
+    {
+      "memberAddress": "0x47e0e5338828b96e3d8161f1a91b9ae9c576d455",
+      "index": "0.06526806526806526806",
+      "daoId": "0xda17dc8b2cb3f3a58b7fc9d911cd441318603ec5"
+    },
+    {
+      "memberAddress": "0x5c96638b16515fce77ddd584911b7e2944677cc0",
+      "index": "0.06526806526806526806",
+      "daoId": "0xda17dc8b2cb3f3a58b7fc9d911cd441318603ec5"
+    },
+    {
+      "memberAddress": "0xace1f1c6c5c89ae3fc3209ff92e7120fb74445aa",
+      "index": "0.06526806526806526806",
+      "daoId": "0xda17dc8b2cb3f3a58b7fc9d911cd441318603ec5"
+    },
+    {
+      "memberAddress": "0xb6a4ee8825f4ee6754bc3671a6af93d99825fa57",
+      "index": "0.06526806526806526806",
+      "daoId": "0xda17dc8b2cb3f3a58b7fc9d911cd441318603ec5"
+    },
+    {
+      "memberAddress": "0xcc18adc81c559691d7806d07cfa6af38d4c12963",
+      "index": "0.06526806526806526806",
+      "daoId": "0xda17dc8b2cb3f3a58b7fc9d911cd441318603ec5"
+    },
+    {
+      "memberAddress": "0xcce9a28b570946123f392cf1dbfa6d2d5e636a1f",
+      "index": "0.06526806526806526806",
+      "daoId": "0xda17dc8b2cb3f3a58b7fc9d911cd441318603ec5"
+    },
+    {
+      "memberAddress": "0xd5ff33380248c8a0c1f7d878d838c90254d0312a",
+      "index": "0.06526806526806526806",
+      "daoId": "0xda17dc8b2cb3f3a58b7fc9d911cd441318603ec5"
+    }
+  ],
+  "0xdbdb2a4c3a5e1fca3d130a8c6d611f68c1604d80": [
+    {
+      "memberAddress": "0xb255f70edfa044674fccd01c099955acc6fc7ff4",
+      "index": "1",
+      "daoId": "0xdbdb2a4c3a5e1fca3d130a8c6d611f68c1604d80"
+    }
+  ],
+  "0xddd21798f65b0f3d79929446039f70b3a5641527": [
+    {
+      "memberAddress": "0xde6bcde54cf040088607199fc541f013ba53c21e",
+      "index": "0.41666666666666666666",
+      "daoId": "0xddd21798f65b0f3d79929446039f70b3a5641527"
+    },
+    {
+      "memberAddress": "0x67243d6c3c3bdc2f59d2f74ba1949a02973a529d",
+      "index": "0.41666666666666666666",
+      "daoId": "0xddd21798f65b0f3d79929446039f70b3a5641527"
+    },
+    {
+      "memberAddress": "0x27773b203954fbbb3e98dfa1a85a99e1c2f40f56",
+      "index": "0.08333333333333333333",
+      "daoId": "0xddd21798f65b0f3d79929446039f70b3a5641527"
+    },
+    {
+      "memberAddress": "0xa8cadc2268b01395f8573682fb9dd00bd582e8a0",
+      "index": "0.08333333333333333333",
+      "daoId": "0xddd21798f65b0f3d79929446039f70b3a5641527"
+    }
+  ],
+  "0xde6e98700accfb6cf707e8d26476865c00066933": [
+    {
+      "memberAddress": "0xbaf6e57a3940898fd21076b139d4ab231dcbbc5f",
+      "index": "0.5",
+      "daoId": "0xde6e98700accfb6cf707e8d26476865c00066933"
+    },
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0.5",
+      "daoId": "0xde6e98700accfb6cf707e8d26476865c00066933"
+    }
+  ],
+  "0xe11f0eb60de58f62b77bda48bbda23056b2a5170": [
+    {
+      "memberAddress": "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "index": "0",
+      "daoId": "0xe11f0eb60de58f62b77bda48bbda23056b2a5170"
+    },
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0",
+      "daoId": "0xe11f0eb60de58f62b77bda48bbda23056b2a5170"
+    },
+    {
+      "memberAddress": "0xd26a3f686d43f2a62ba9eae2ff77e9f516d945b9",
+      "index": "0",
+      "daoId": "0xe11f0eb60de58f62b77bda48bbda23056b2a5170"
+    }
+  ],
+  "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44": [
+    {
+      "memberAddress": "0x187089b33e5812310ed32a57f53b3fad0383a19d",
+      "index": "0.01668999999999999997",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "index": "0.01735000000000000084",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xbc5b552641e5d203f0a6c230aa9dc14da7450053",
+      "index": "0.01733000000000000165",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x68f272fcaae074cb33e68d88a32c325ed0df8379",
+      "index": "0.01722999999999999879",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x66b1de0f14a0ce971f7f248415063d44caf19398",
+      "index": "0.01701000000000000081",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x775af9b7c214fe8792ab5f5da61a8708591d517e",
+      "index": "0.01735000000000000084",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0.01685000000000000039",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xed544324de3699006840550181b6a7a3b3d934fb",
+      "index": "0.01652999999999999955",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xd26a3f686d43f2a62ba9eae2ff77e9f516d945b9",
+      "index": "0.01737999999999999962",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x7779f8144951811c8d7418a6cf4aa58f65e221b3",
+      "index": "0.01756999999999999881",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x77fb4fa1aba92576942ad34bc47834059b84e693",
+      "index": "0.01644999999999999934",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x856888d67545afc0b78c4b295c56f15bdc5661ca",
+      "index": "0.01646999999999999853",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x884ff907d5fb8bae239b64aa8ad18ba3f8196038",
+      "index": "0.01677999999999999978",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x914aa366fc6af1cef6d8b98dd24b2842e0d14c39",
+      "index": "0.01725000000000000144",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x9f8d1c9c54a7dcbf242012f158b1594f17ef4211",
+      "index": "0.01659000000000000058",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xa6684f5984fa44527d58bc9dec82f93f11ff4c4b",
+      "index": "0.01730999999999999900",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xa69656dee6721ff43506477fb522efef151e4477",
+      "index": "0.01677000000000000018",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xa7a5a2745f10d5c23d75a6fd228a408cede1cae5",
+      "index": "0.01676000000000000059",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xae89af4b16a86bfe883321cee4eea9975241ce68",
+      "index": "0.01695999999999999938",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xb2e0f4dee26cccf1f3a267ad185f212dd3e7a6b1",
+      "index": "0.01638999999999999832",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xbfc7cae0fad9b346270ae8fde24827d2d779ef07",
+      "index": "0.01711000000000000021",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xcb42ac441fcade3935243ea118701f39aa004486",
+      "index": "0.01770000000000000046",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xe04885c3f1419c6e8495c33bdcf5f8387cd88846",
+      "index": "0.01646999999999999853",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xe4cc688726dd0a1f8c464054ea1a1218d0cd9fc4",
+      "index": "0.01720000000000000001",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xeb54d707252ee9e26e6a4073680bf71154ce7ab5",
+      "index": "0.01682000000000000162",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xfacef700458d4fc9746f7f3e0d37b462711ff09e",
+      "index": "0.01735000000000000084",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x79d31bfca5fda7a4f15b36763d2e44c99d811a6c",
+      "index": "0.01684000000000000080",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xec952ed8e7c2aa466cac36fd611d2e87df1243d7",
+      "index": "0.01733000000000000165",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xa33d364acac268068fdbd265a9305c36c699cec2",
+      "index": "0.01663999999999999854",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x7434672e89b055fd02deebef203738cf0802c01b",
+      "index": "0.01662999999999999895",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xa2f60cd9e755ded6ac6772afb717fa2c522ae30d",
+      "index": "0.01592999999999999972",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xc8263aa733c96154a1e1afd692eec3d567f3ed43",
+      "index": "0.01663999999999999854",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xd714dd60e22bbb1cbafd0e40de5cfa7bbdd3f3c8",
+      "index": "0.01723999999999999838",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xd76ff76ac8019c99237bde08d7c39dab5481bed2",
+      "index": "0.01677000000000000018",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xda6d1f091b672c0f9e215eb9fa6b5a84bf2c5e11",
+      "index": "0.01663999999999999854",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xeab5ecc6a488fc6896c5a9b45c5b6a1cdb3aff70",
+      "index": "0.01746999999999999942",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x826976d7c600d45fb8287ca1d7c76fc8eb732030",
+      "index": "0.01731999999999999859",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x8451727d424b5b283f2305734f8676aec617b813",
+      "index": "0.01652999999999999955",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x8760e565273b47195f76a22455ce0b68a11af5b5",
+      "index": "0.01713999999999999899",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x89b935d90b919a9e0182800399359bdb4dc6cf5a",
+      "index": "0.01684000000000000080",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x8f989aa06d3bf5dbe8c7b84020dcb123ae86942e",
+      "index": "0.01651999999999999996",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xb03f5438f9a243de5c3b830b7841ec315034cd5f",
+      "index": "0.01670999999999999916",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xb22981ba3fe1de2325935c91a3b717168fb86714",
+      "index": "0.01754000000000000004",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xbc004505c21913049de9dc342e58a77871b7430f",
+      "index": "0.01746999999999999942",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xbc4a2b0b65e39bae9bedad1798b824eaf0a60639",
+      "index": "0.01687999999999999917",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xd4786cda66e176173568ce26343135543a3f04cb",
+      "index": "0.01700000000000000122",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xde2be7c9c542c55a7a77489a3a7745493988947f",
+      "index": "0.01735000000000000084",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xe4b420f15d6d878dcd0df7120ac0fc1509ee9cab",
+      "index": "0.01629999999999999852",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xf121163a94d094d099e3ad2b0decb65f97b6fecf",
+      "index": "0.01694999999999999979",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x86aecfc1e3973108ce14b9b741a99d3466127170",
+      "index": "0.01754999999999999963",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xb6d052d6f5921d52c1c14b69a02de04f840cefcd",
+      "index": "0.01710000000000000062",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xbeb5a64793ec486b080063d3b662f2131fac0f52",
+      "index": "0.01680999999999999855",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xd1bea81dd97d4fcebc5b25686bdca04deff3991f",
+      "index": "0.01772999999999999923",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xda5b2cd0d0bb26e79fb3210233ddabdb7de131c9",
+      "index": "0.01670999999999999916",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xdf73fe01dfddb55a900b947c5726b2e54dddd95a",
+      "index": "0.01671999999999999875",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xe8d848debb3a3e12aa815b15900c8e020b863f31",
+      "index": "0.01700000000000000122",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x87690be28b65f13394741c2c2be5a6bdb0505039",
+      "index": "0.01657000000000000139",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0xe68967c95f5a9bccfdd711a2cbc23ec958f147ef",
+      "index": "0.01682000000000000162",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    },
+    {
+      "memberAddress": "0x1c9f765c579f94f6502acd9fc356171d85a1f8d0",
+      "index": "0.01663999999999999854",
+      "daoId": "0xe160ba2cb286888d54cf51a8b3fc01ecce8ccb44"
+    }
+  ],
+  "0xe2f816d08c568a447d3804b265f1e277bc2c688d": [
+    {
+      "memberAddress": "0x2619c649d98ddddbb0b218823354fe1d41bf5ce0",
+      "index": "0",
+      "daoId": "0xe2f816d08c568a447d3804b265f1e277bc2c688d"
+    },
+    {
+      "memberAddress": "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "index": "0",
+      "daoId": "0xe2f816d08c568a447d3804b265f1e277bc2c688d"
+    },
+    {
+      "memberAddress": "0xbc5b552641e5d203f0a6c230aa9dc14da7450053",
+      "index": "0",
+      "daoId": "0xe2f816d08c568a447d3804b265f1e277bc2c688d"
+    }
+  ],
+  "0xe5d2a33e9ab517fbdb2e308b3b711d755c01da78": [
+    {
+      "memberAddress": "0x4d49606375ec69d743524dfc0b42b999416fe1ca",
+      "index": "0",
+      "daoId": "0xe5d2a33e9ab517fbdb2e308b3b711d755c01da78"
+    }
+  ],
+  "0xe8c1c742e3ab878007380b9d9304693e9c8a3f17": [
+    {
+      "memberAddress": "0x10a871b714608141e73d4e5126cc94fbed8c60fd",
+      "index": "1",
+      "daoId": "0xe8c1c742e3ab878007380b9d9304693e9c8a3f17"
+    }
+  ],
+  "0xf02efe9716456c1a21f90f0e6b663d402591e6f4": [
+    {
+      "memberAddress": "0x187089b33e5812310ed32a57f53b3fad0383a19d",
+      "index": "0",
+      "daoId": "0xf02efe9716456c1a21f90f0e6b663d402591e6f4"
+    },
+    {
+      "memberAddress": "0x1a9cee6e1d21c3c09fb83a980ea54299f01920cd",
+      "index": "0",
+      "daoId": "0xf02efe9716456c1a21f90f0e6b663d402591e6f4"
+    }
+  ],
+  "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986": [
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0.00664000000000000007",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xd26a3f686d43f2a62ba9eae2ff77e9f516d945b9",
+      "index": "0.00634000000000000015",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "index": "0.00634999999999999974",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x8f942eced007bd3976927b7958b50df126feecb5",
+      "index": "0.00611999999999999957",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x1dac51886d5b461fccc784ad3813a5969dd42e6f",
+      "index": "0.00657999999999999991",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xbfc7cae0fad9b346270ae8fde24827d2d779ef07",
+      "index": "0.00691999999999999994",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x99f5a4431d084f11d6ee97d7602412267bf8478f",
+      "index": "0.00676000000000000038",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xcca9a24c13b3c84e84643cb2cfa6b2402ff870e8",
+      "index": "0.00662000000000000002",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x5a9e792143bf2708b4765c144451dca54f559a19",
+      "index": "0.00683000000000000013",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x1a9cee6e1d21c3c09fb83a980ea54299f01920cd",
+      "index": "0.00659999999999999996",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xe68967c95f5a9bccfdd711a2cbc23ec958f147ef",
+      "index": "0.00640000000000000031",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x843a3c4ed93fb1f1335d5d174745551468106715",
+      "index": "0.00649000000000000011",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x15c6ac4cf1b5e49c44332fb0a1043ccab19db80a",
+      "index": "0.00621000000000000024",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xdf73fe01dfddb55a900b947c5726b2e54dddd95a",
+      "index": "0.00666999999999999971",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x6e36ae6b1eca3ba5aa5057c26dd1403a05be0273",
+      "index": "0.00649000000000000011",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x956d5740b3477f0b46dae26753b07ecbd8055908",
+      "index": "0.00668999999999999977",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xb53b0255895c4f9e3a185e484e5b674bccfbc076",
+      "index": "0.00627000000000000040",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xffadc07f1bfb127f4312e8652fe94ab0c771b54d",
+      "index": "0.00625000000000000035",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x06134ad890b6edb42bc0487c4e8dbbc17e3e0326",
+      "index": "0.00655999999999999986",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x9583648c314cdf666f4f555299db3b36f5d5b2f9",
+      "index": "0.00655999999999999986",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x0fef92a34ecf1f742b01c9e3cb2732a83c6067b6",
+      "index": "0.00655999999999999986",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x9492510bbcb93b6992d8b7bb67888558e12dcac4",
+      "index": "0.00630999999999999964",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xc746708e27c5a8013fe8a9c62af17f64610acdfc",
+      "index": "0.00662999999999999961",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x73f19c4e5ffc335932afebf382def646f600e64a",
+      "index": "0.00655999999999999986",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xe9a82a8a6e543890f60f3bca8685f56dc89aeb48",
+      "index": "0.00677999999999999957",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x19c7cc3ef51b59468bb04aae7736cea2ce8b9385",
+      "index": "0.00670999999999999982",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x5b777a7c09725fb309475e27cc96cd9155360ea1",
+      "index": "0.00642999999999999995",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x06535a967d958dea135f6b50056362947ae5754b",
+      "index": "0.00655000000000000027",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x0eabffd8ce94ab2387fc44ba32642af0c58af433",
+      "index": "0.00659000000000000037",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x0f10f27fbe3622e7d4bdf1f141c6e50ed8845af6",
+      "index": "0.00619000000000000019",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x131fde92e4e88fa0746d9aba3dd4ec8aac1786a6",
+      "index": "0.00664999999999999966",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x1426fbd146942e153653863cbe633780c17268da",
+      "index": "0.00657000000000000032",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x146cfed833cc926b16b0da9257e8a281c2add9f3",
+      "index": "0.00636000000000000020",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x14a81ca2dd1202de7a6190e16d81aa3e4116fdf0",
+      "index": "0.00674999999999999992",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x1c0aa8ccd568d90d61659f060d1bfb1e6f855a20",
+      "index": "0.00679000000000000003",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x1df428833f2c9fb1ef098754e5d710432450d706",
+      "index": "0.00662999999999999961",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x217a1121db1eeacc6f50703ec0a92885e0d8d2d4",
+      "index": "0.00676000000000000038",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x224aba5d489675a7bd3ce07786fada466b46fa0f",
+      "index": "0.00653000000000000021",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x27c72e4bd23c910218d8f06c4a1742e06657c874",
+      "index": "0.00647999999999999965",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x2c3dd65e94f97b2a25239eddffd2e192c08769b8",
+      "index": "0.00617999999999999973",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x3839acf1ee7699d1f46b1be840d8ad8317fdf757",
+      "index": "0.00655999999999999986",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x4059457092cc3812d56676df6a75fd21204fbe2f",
+      "index": "0.00653999999999999981",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x4fafa767c9cb71394875c139d43aee7799748908",
+      "index": "0.00653999999999999981",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x54becc7560a7be76d72ed76a1f5fee6c5a2a7ab6",
+      "index": "0.00659000000000000037",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x58f123bd4261ea25955b362be57d89f4b6e7110a",
+      "index": "0.00657999999999999991",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+      "index": "0.00670000000000000023",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x5bb3e1774923b75ecb804e2559149bbd2a39a414",
+      "index": "0.00655999999999999986",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x5f350bf5fee8e254d6077f8661e9c7b83a30364e",
+      "index": "0.00638999999999999985",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x69a9e35b769a7b8bad41ff5421e5c365632830a7",
+      "index": "0.00615999999999999968",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x6d97d65adff6771b31671443a6b9512104312d3d",
+      "index": "0.00659000000000000037",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "index": "0.00619999999999999978",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x70c58b28f5e39da89bee0e6e8623e3faf51f0ed1",
+      "index": "0.00685000000000000019",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x710e2f9d630516d3afdd053de584f1fa421e84bc",
+      "index": "0.00677999999999999957",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x756ee8b8e898d497043c2320d9909f1dd5a7077f",
+      "index": "0.00664999999999999966",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x818ff73a5d881c27a945be944973156c01141232",
+      "index": "0.00677999999999999957",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x8321926c8aae281ef9d8520a772eb1d94a9ec6dd",
+      "index": "0.00661000000000000042",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x851fb899da7f80c211d9b8e5f231fb3bc9eca41a",
+      "index": "0.00679000000000000003",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x865c2f85c9fea1c6ac7f53de07554d68cb92ed88",
+      "index": "0.00606999999999999987",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x9d06abcb6bf6ba8284255ce1d4cf965a04810336",
+      "index": "0.00702999999999999979",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x9f082e184259d2f7089df5ced36679bb88bfe123",
+      "index": "0.00634000000000000015",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xa15ca74e65bf72730811abf95163e89ad9b9dff6",
+      "index": "0.00623000000000000029",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xafd5f60aa8eb4f488eaa0ef98c1c5b0645d9a0a0",
+      "index": "0.00719999999999999980",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xb2f4b16595e02a9721f97e3e30fb5bbbf73f5f54",
+      "index": "0.00666999999999999971",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xb4135c81b194cae8dd2c4426527e880f95840acc",
+      "index": "0.00647000000000000006",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xb6dacfc9e6443f2546e9285ba4ae6359cdc20727",
+      "index": "0.00642000000000000036",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xc2013c235cf746a8164747e25254c7b538864e10",
+      "index": "0.00634999999999999974",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xc7f459c7edcf9333d223bd1c346f46819403ca06",
+      "index": "0.00651999999999999975",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xca7a1a193a02e0520b6b745cd2eb24967c27ca00",
+      "index": "0.00625000000000000035",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xcb42ac441fcade3935243ea118701f39aa004486",
+      "index": "0.00619000000000000019",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xd714dd60e22bbb1cbafd0e40de5cfa7bbdd3f3c8",
+      "index": "0.00653999999999999981",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xd8c1f97348da216c2ded7a3a92274f2ff5cf37b2",
+      "index": "0.00677999999999999957",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xe4cc688726dd0a1f8c464054ea1a1218d0cd9fc4",
+      "index": "0.00645000000000000000",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xe775f37efe72d5a695b23e6ea7769f98cfbfaeb4",
+      "index": "0.00672999999999999987",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xef42cf85be6adf3081ada73af87e27996046fe63",
+      "index": "0.00632999999999999969",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xf7f189082878846c11a94ddac51c41afc7a7c772",
+      "index": "0.00636999999999999979",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xf925fdaea552d36a5291335941ab7a046f960a80",
+      "index": "0.00659999999999999996",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xfacef700458d4fc9746f7f3e0d37b462711ff09e",
+      "index": "0.00683000000000000013",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xf4b27acb9a65dcb2fbfe8fb44516b09ac1f39822",
+      "index": "0.00676000000000000038",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xd1629474d25a63b1018fcc965e1d218a00f6cbd3",
+      "index": "0.00679999999999999962",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x89b935d90b919a9e0182800399359bdb4dc6cf5a",
+      "index": "0.00606000000000000028",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x04db1bb49b7ffbcec574f34d29c3153953890352",
+      "index": "0.00613999999999999962",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x08b3931b2ae83113c711c92e1bb87989f1fab004",
+      "index": "0.00611999999999999957",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x0b5f5a722ac5e8ecedf4da39a656fe5f1e76b34c",
+      "index": "0.00627999999999999999",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x10ecaac69db158f4eb56d5dbc3fbc16ea125890d",
+      "index": "0.00651000000000000016",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x1258b93cc472ebe7d97d16947ab82a7189b4dee2",
+      "index": "0.00679000000000000003",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x17ae58ab79444ad5b8ee2e232caf13c65c32af75",
+      "index": "0.00655000000000000027",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x180fdb959eeaa76d72bddd2cfbb9553320e64d7f",
+      "index": "0.00676999999999999998",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x1c9f765c579f94f6502acd9fc356171d85a1f8d0",
+      "index": "0.00702000000000000020",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x232e02988970e8ab920c83964cc7922d9c282dca",
+      "index": "0.00674000000000000033",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x2410d50ba4993c1fe13b3db0bcdae51b1c617d0a",
+      "index": "0.00625000000000000035",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x2606cb984b962ad4aa1ef00f9af9b654b435ad44",
+      "index": "0.00700999999999999974",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x2619c649d98ddddbb0b218823354fe1d41bf5ce0",
+      "index": "0.00621000000000000024",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x28ede9352a5f76daec81cfc65d7246f6665f5fa3",
+      "index": "0.00645000000000000000",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x2d60f23aed1d7eb1aa18d0b954eac509e93635e7",
+      "index": "0.00679999999999999962",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x2dfe8259e14b591d63a02ad810cd502c29d56292",
+      "index": "0.00696000000000000004",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x2f51e78ff8aec6a941c4ceeeb26b4a1f03737c50",
+      "index": "0.00655999999999999986",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x2ff7a8debb107226e679dbc8389ad579695899ee",
+      "index": "0.00621999999999999983",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x319ae05ccc729f518303f6af4accb6a92a2f69b9",
+      "index": "0.00713000000000000005",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x35b248d06bf280e17d8cbff63c56a58e52a936f1",
+      "index": "0.00677999999999999957",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x36273803306a3c22bc848f8db761e974697ece0d",
+      "index": "0.00632999999999999969",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x41d2a18e1ddacdabfddadb62e9aee67c63070b76",
+      "index": "0.00651000000000000016",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x516cafd745ec780d20f61c0d71fe258ea765222d",
+      "index": "0.00636000000000000020",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x5562b57d27dded14a387c2899a7471c62a3eca22",
+      "index": "0.00672999999999999987",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x60d8ef8101152c20d493e81263d9fddb09c4a084",
+      "index": "0.00632999999999999969",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x68f272fcaae074cb33e68d88a32c325ed0df8379",
+      "index": "0.00657999999999999991",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x6ead4327908a7655215d8f757d661ff32f171123",
+      "index": "0.00708999999999999995",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x706342c7f358cf05370db27ae0d9b1791adefd08",
+      "index": "0.00666999999999999971",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x7434672e89b055fd02deebef203738cf0802c01b",
+      "index": "0.00645999999999999960",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x763305d7817605a57c110ac2ccbe26d6e8d54e6d",
+      "index": "0.00628999999999999958",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x775af9b7c214fe8792ab5f5da61a8708591d517e",
+      "index": "0.00677999999999999957",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x78ec73423b222cb225549bab0d0a812d58808ffd",
+      "index": "0.00628999999999999958",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x7b86f576669f8d20a8244dabefc65b31d7deb3f2",
+      "index": "0.00661000000000000042",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x7bc48221928f11184b376da7a57650768dfd3332",
+      "index": "0.00666999999999999971",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x7ca1218f429d0204d76b3172ca39cd01579a1ea4",
+      "index": "0.00662999999999999961",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x8760e565273b47195f76a22455ce0b68a11af5b5",
+      "index": "0.00662000000000000002",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x887d8748653091fcb905dde240f4f1f97847f12f",
+      "index": "0.00659000000000000037",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x89bf9baaee2d451477cf850fe4c0d89bb796b1ad",
+      "index": "0.00611999999999999957",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x8bade8940dc34b37155e6768e11b3a27f755a383",
+      "index": "0.00670999999999999982",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x914aa366fc6af1cef6d8b98dd24b2842e0d14c39",
+      "index": "0.00653999999999999981",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x986e92868a27548a31e88f7692e746cd7e86f39a",
+      "index": "0.00662999999999999961",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x9f8d1c9c54a7dcbf242012f158b1594f17ef4211",
+      "index": "0.00628999999999999958",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xa1ab7cb5ef6a01e079ac940f87a231738106e243",
+      "index": "0.00653000000000000021",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xa69656dee6721ff43506477fb522efef151e4477",
+      "index": "0.00613999999999999962",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xae0b2d0268ad8e59bd4a9424d78ecd71233a0d77",
+      "index": "0.00644000000000000041",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xb0d2b32aef17d71e13e358898fe2d7458a84998b",
+      "index": "0.00608999999999999993",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xb1a87b31d3c13c47a1dac755d48845abe49cfe2d",
+      "index": "0.00617999999999999973",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xb4c3a698874b625df289e97f718206701c1f4c0f",
+      "index": "0.00659000000000000037",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xb7707bfb6565296d152eb62faf2b28b8f259c29a",
+      "index": "0.00711999999999999959",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xb8b281e556c478583087ae5af5356b485b83e819",
+      "index": "0.00683999999999999973",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xbaacdcffa93b984c914014f83ee28b68df88dc87",
+      "index": "0.00640000000000000031",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xbbfafca841af78b31a5ed8e6ff7c51d431ced138",
+      "index": "0.00676000000000000038",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xbc4a2b0b65e39bae9bedad1798b824eaf0a60639",
+      "index": "0.00672000000000000028",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xbc5b552641e5d203f0a6c230aa9dc14da7450053",
+      "index": "0.00593000000000000037",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xbf42c05bd8302a4d2efd0cdf66fc33d8123887bf",
+      "index": "0.00621999999999999983",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xc0163e58648b247c143023cfb26c2baa42c9d9a9",
+      "index": "0.00634000000000000015",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xc1a26fc95765b8969f251ea6caefd97eb73b2938",
+      "index": "0.00664000000000000007",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xc366cccec846abb4dd13fdb22beaafa9a5896afb",
+      "index": "0.00672000000000000028",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xc997090a4d757e439d2f2a97ce3f1ed06a1ce668",
+      "index": "0.00649999999999999970",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xcca692199f1169afc31a5fe1e5a0b6463b8fef9d",
+      "index": "0.00668999999999999977",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xccc9d33567912c9d4446ad2298e74084c0e356ee",
+      "index": "0.00664999999999999966",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xcff878b6673bcbc3525e2c6432d2e9698738ef34",
+      "index": "0.00659000000000000037",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xd1bea81dd97d4fcebc5b25686bdca04deff3991f",
+      "index": "0.00700000000000000015",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xda6d1f091b672c0f9e215eb9fa6b5a84bf2c5e11",
+      "index": "0.00625000000000000035",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xdf1064632754674acb1b804f2c65849d016eaf9d",
+      "index": "0.00642000000000000036",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xe0802cf223a05a14408ad44e7f878d21408fb04c",
+      "index": "0.00634999999999999974",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xe1991a375c60419ce33ca1f4c0cb0c1c34a56257",
+      "index": "0.00617999999999999973",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xe22158765f79d344400adee7d71a04522fde46ce",
+      "index": "0.00649999999999999970",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xe64d3f087d26c7d153e2286c2beea76fe0a5397d",
+      "index": "0.00647000000000000006",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xf025b4ac25d5dc1ffd77b099a31ddc269d55c039",
+      "index": "0.00630999999999999964",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xfaf3f95b58cf4adbfd6e079fd6b69ca9368243bd",
+      "index": "0.00689999999999999988",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x60959ed8307ee2b0d04306f6b319aeee8864f1ee",
+      "index": "0.00627999999999999999",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0x53010b56648a1648d88cd775d6053902ad63dc1c",
+      "index": "0.00693999999999999999",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    },
+    {
+      "memberAddress": "0xa64fc17b157aaa50ac9a8341bab72d4647d0f1a7",
+      "index": "0.00596999999999999961",
+      "daoId": "0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986"
+    }
+  ],
+  "0xf121defed4e533c6e39d25359d8749969d299dc3": [
+    {
+      "memberAddress": "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "index": "0",
+      "daoId": "0xf121defed4e533c6e39d25359d8749969d299dc3"
+    }
+  ],
+  "0xf1f89d7f7e5285f3f24739389327bfbd270cf2cb": [
+    {
+      "memberAddress": "0x07fda67513ec0897866098a11dc3858089d4a505",
+      "index": "1",
+      "daoId": "0xf1f89d7f7e5285f3f24739389327bfbd270cf2cb"
+    }
+  ],
+  "0xf2c15b04e368a0c982d0e14440e9c34cde0f61ff": [
+    {
+      "memberAddress": "0x680c6dfed9c6e80afcec0224a27982f778614aad",
+      "index": "1",
+      "daoId": "0xf2c15b04e368a0c982d0e14440e9c34cde0f61ff"
+    }
+  ],
+  "0xf30684010a423794f22478ee2336adfd4027b15e": [
+    {
+      "memberAddress": "0xbc5b552641e5d203f0a6c230aa9dc14da7450053",
+      "index": "0",
+      "daoId": "0xf30684010a423794f22478ee2336adfd4027b15e"
+    }
+  ],
+  "0xf52cd3fa551f7cee9c1aa2b787fbfe4c33002b45": [
+    {
+      "memberAddress": "0xc9e7e6f2ca54366a174ab98a7f4d853f0a8e2992",
+      "index": "1",
+      "daoId": "0xf52cd3fa551f7cee9c1aa2b787fbfe4c33002b45"
+    }
+  ],
+  "0xf68c2cb60abf2473a5f7393f939602c536b0864b": [
+    {
+      "memberAddress": "0x9ea86bb338a9bb25761e7b7af37f25f59676eff9",
+      "index": "1",
+      "daoId": "0xf68c2cb60abf2473a5f7393f939602c536b0864b"
+    }
+  ],
+  "0xf77fc82251abf545f41d4886c4cbd3101c9cd37c": [
+    {
+      "memberAddress": "0x3fad8bcd2aea732d02a203c156b19205253f2a06",
+      "index": "1",
+      "daoId": "0xf77fc82251abf545f41d4886c4cbd3101c9cd37c"
+    }
+  ],
+  "0xf84bcb670fd9d86ac0d8fb8903543109a4ed4750": [
+    {
+      "memberAddress": "0x6d6803fba7ca68914800885604b26af2233158ac",
+      "index": "0",
+      "daoId": "0xf84bcb670fd9d86ac0d8fb8903543109a4ed4750"
+    }
+  ],
+  "0xf8e8a01dfa128c238483ec988fe44f9b56d343f4": [
+    {
+      "memberAddress": "0xa3fbd10f67eca876d57efa50e046f3d3054e8a5f",
+      "index": "1",
+      "daoId": "0xf8e8a01dfa128c238483ec988fe44f9b56d343f4"
+    }
+  ],
+  "0xf9d713f08a8af74ab58c3fc5e93e6d616675765f": [
+    {
+      "memberAddress": "0xde6bcde54cf040088607199fc541f013ba53c21e",
+      "index": "0.41666666666666666666",
+      "daoId": "0xf9d713f08a8af74ab58c3fc5e93e6d616675765f"
+    },
+    {
+      "memberAddress": "0x67243d6c3c3bdc2f59d2f74ba1949a02973a529d",
+      "index": "0.41666666666666666666",
+      "daoId": "0xf9d713f08a8af74ab58c3fc5e93e6d616675765f"
+    },
+    {
+      "memberAddress": "0x27773b203954fbbb3e98dfa1a85a99e1c2f40f56",
+      "index": "0.08333333333333333333",
+      "daoId": "0xf9d713f08a8af74ab58c3fc5e93e6d616675765f"
+    },
+    {
+      "memberAddress": "0xa8cadc2268b01395f8573682fb9dd00bd582e8a0",
+      "index": "0.08333333333333333333",
+      "daoId": "0xf9d713f08a8af74ab58c3fc5e93e6d616675765f"
+    }
+  ],
+  "0xfa74f0748535223593fc0dbddd2bc4548dd14ab1": [
+    {
+      "memberAddress": "0xc4ccc6a11329558582c2da79c18a9aeac00f59f9",
+      "index": "1",
+      "daoId": "0xfa74f0748535223593fc0dbddd2bc4548dd14ab1"
+    }
+  ],
+  "0xfbb575ccf3c253f66707b1ffe49e330c13e192b6": [
+    {
+      "memberAddress": "0x72a86bf79689589ca16aaeadb4ac299afc0c52b3",
+      "index": "0",
+      "daoId": "0xfbb575ccf3c253f66707b1ffe49e330c13e192b6"
+    }
+  ],
+  "0xfbddea58ca7dd83e03fd16f3eeee94d4eeea6632": [
+    {
+      "memberAddress": "0x000000000000000000000000000000000000dead",
+      "index": "1",
+      "daoId": "0xfbddea58ca7dd83e03fd16f3eeee94d4eeea6632"
+    },
+    {
+      "memberAddress": "0x829e98b94802eb550d72e7c0074ea5be0eec2f3f",
+      "index": "0",
+      "daoId": "0xfbddea58ca7dd83e03fd16f3eeee94d4eeea6632"
+    },
+    {
+      "memberAddress": "0xe7db7ec8920aa8feeb1ea8dfd9a2773a8a69a908",
+      "index": "0",
+      "daoId": "0xfbddea58ca7dd83e03fd16f3eeee94d4eeea6632"
+    },
+    {
+      "memberAddress": "0xa3fbd10f67eca876d57efa50e046f3d3054e8a5f",
+      "index": "0",
+      "daoId": "0xfbddea58ca7dd83e03fd16f3eeee94d4eeea6632"
+    },
+    {
+      "memberAddress": "0xa0d3bbc3764b5f3a8d788064a62544fdc25d0334",
+      "index": "0",
+      "daoId": "0xfbddea58ca7dd83e03fd16f3eeee94d4eeea6632"
+    },
+    {
+      "memberAddress": "0xdfb7c410be17f38ecb970efa438db308ca281e23",
+      "index": "0",
+      "daoId": "0xfbddea58ca7dd83e03fd16f3eeee94d4eeea6632"
+    },
+    {
+      "memberAddress": "0x0ea26051f7657d59418da186137141cea90d0652",
+      "index": "0",
+      "daoId": "0xfbddea58ca7dd83e03fd16f3eeee94d4eeea6632"
+    },
+    {
+      "memberAddress": "0x94dd9efe81a67bcf6d529ef5281d7631805b4aa1",
+      "index": "0",
+      "daoId": "0xfbddea58ca7dd83e03fd16f3eeee94d4eeea6632"
+    },
+    {
+      "memberAddress": "0xa1157827b02f05e92361049637db6c43d6f00280",
+      "index": "0",
+      "daoId": "0xfbddea58ca7dd83e03fd16f3eeee94d4eeea6632"
+    },
+    {
+      "memberAddress": "0xca85c622d4c61047f96e352cb919695486a193e6",
+      "index": "0",
+      "daoId": "0xfbddea58ca7dd83e03fd16f3eeee94d4eeea6632"
+    },
+    {
+      "memberAddress": "0x57533938255dbdc897fd2926bfb3e7a15bc9033e",
+      "index": "0",
+      "daoId": "0xfbddea58ca7dd83e03fd16f3eeee94d4eeea6632"
+    }
+  ]
+}
