@@ -243,14 +243,15 @@ function calculateShapleyShubikForDao(
 // Запрос SQLite
 // SELECT
 //     d.id AS dao_id,
+//     d.name as dao_name,
 //     d.quorumPercent,
 //     d.totalShares,
 //     m.memberAddress,
 //     m.delegateShares AS voting_weight
 // FROM Dao d
 // JOIN Member m ON d.id = m.dao
-// -- Если нужны только участники с ненулевым весом: WHERE m.delegateShares > 0
-// ORDER BY dao_id, voting_weight DESC;
+// WHERE m.delegateShares > 0
+// ORDER BY dao_id DESC;
 
 /**
  * Читает CSV файл, группирует данные по ДАО и запускает расчеты.
