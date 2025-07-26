@@ -1,7 +1,13 @@
 import * as fs from 'fs';
 import * as readline from 'readline';
 
-// Вспомогательные функции
+// --- ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ ---
+
+/**
+ * Предварительно вычисляет факториалы до n, чтобы избежать повторных расчетов.
+ * @param n Максимальное число для расчета факториала.
+ * @returns Массив BigInt, где i-й элемент - это i!.
+ */
 function precomputeFactorials(n: number): bigint[] {
   const factorials: bigint[] = new Array(n + 1);
   factorials[0] = 1n;
@@ -11,6 +17,13 @@ function precomputeFactorials(n: number): bigint[] {
   return factorials;
 }
 
+/**
+ * Выполняет деление двух BigInt с заданной точностью после запятой.
+ * @param a Делимое.
+ * @param b Делитель.
+ * @param precision Количество знаков после запятой.
+ * @returns Строковое представление результата.
+ */
 function bigIntDivision(a: bigint, b: bigint, precision: number = 20): string {
   const quotient = a / b;
   let remainder = a % b;
@@ -29,7 +42,11 @@ function bigIntDivision(a: bigint, b: bigint, precision: number = 20): string {
   return res;
 }
 
-// Парсинг строки bigInt с scientific записью
+/**
+ * Безопасно парсит строку в научной нотации (например, "1e+21") в BigInt.
+ * @param str Строка для конвертации.
+ * @returns BigInt представление числа (дробная часть отбрасывается - float нет в EVM).
+ */
 function parseExpToBigInt(str: string): bigint {
   // Проверяем, есть ли 'e' или 'E'
   const match = str.match(/^(\d+)(?:\.(\d+))?[eE]([+-]?\d+)$/);
@@ -53,7 +70,11 @@ function parseExpToBigInt(str: string): bigint {
   return BigInt(digits + '0'.repeat(zeros));
 }
 
-// Функция для перетасовки массива (Fisher-Yates)
+/**
+ * Перемешивает массив, используя алгоритм тасования Фишера-Йетса.
+ * @param array Исходный массив.
+ * @returns Новый массив с перемешанными элементами.
+ */
 function shuffle<T>(array: T[]): T[] {
   const result = [...array];
   for (let i = result.length - 1; i > 0; i--) {
@@ -63,7 +84,14 @@ function shuffle<T>(array: T[]): T[] {
   return result;
 }
 
-// Точный расчет индекса
+// --- ОСНОВНЫЕ ФУНКЦИИ РАСЧЕТА ---
+
+/**
+ * Точный расчет индекса Шепли-Шубика.
+ * @param members Массив участников с их весами.
+ * @param threshold Пороговое значение кворума.
+ * @returns Массив с рассчитанными индексами для каждого участника.
+ */
 function calculateExactShapleyShubik(
   members: { memberAddress: string; voting_weight: bigint }[],
   threshold: bigint
@@ -112,30 +140,34 @@ function calculateExactShapleyShubik(
   return results;
 }
 
-// Метод Монте-Карло для приближенного расчета
+/**
+ * Аппроксимированный расчет индекса Шепли-Шубика методом Монте-Карло.
+ * @param members Массив участников.
+ * @param threshold Пороговое значение кворума.
+ * @param samples Количество симуляций (чем больше, тем точнее).
+ * @returns Массив с приближенными индексами.
+ */
 function monteCarloShapley(
   members: { memberAddress: string; voting_weight: bigint }[],
   threshold: bigint,
-  samples: number = 100000
+  samples: number = 1_000_000
 ): { memberAddress: string; index: string }[] {
   const n = members.length;
   const counts = new Array(n).fill(0);
+  // Создаем карту для быстрого поиска индекса O(1)
+  const addressToIndexMap = new Map<string, number>();
+  members.forEach((m, i) => addressToIndexMap.set(m.memberAddress, i));
 
   for (let s = 0; s < samples; s++) {
-    // Случайная перестановка участников
     const permutation = shuffle(members);
     let cumulativeWeight = 0n;
 
     for (let i = 0; i < n; i++) {
       const member = permutation[i];
       cumulativeWeight += member.voting_weight;
-
-      // Проверяем, является ли текущий участник ключевым
       if (cumulativeWeight >= threshold) {
-        // Находим индекс этого участника в исходном массиве
-        const originalIndex = members.findIndex(
-          (m) => m.memberAddress === member.memberAddress
-        );
+        // Используем карту для O(1) поиска
+        const originalIndex = addressToIndexMap.get(member.memberAddress)!;
         counts[originalIndex]++;
         break;
       }
@@ -149,13 +181,21 @@ function monteCarloShapley(
   }));
 }
 
-// Основная функция расчета
+/**
+ * Главная управляющая функция. Выбирает метод расчета и форматирует результат.
+ * @param daoId Идентификатор ДАО.
+ * @param quorumPercent Процент кворума.
+ * @param totalShares Общее количество голосов в системе.
+ * @param members Массив участников.
+ * @param monteCarloThreshold Порог (число участников), после которого используется метод Монте-Карло. (Слишком высокое значение приводит к экспоненциально долгому вычислению соответственно)
+ * @returns Массив с результатами для всех участников данного ДАО.
+ */
 function calculateShapleyShubikForDao(
   daoId: string,
   quorumPercent: bigint,
   totalShares: bigint,
   members: { memberAddress: string; voting_weight: bigint }[],
-  monteCarloThreshold: number = 20
+  monteCarloThreshold: number = 25
 ): { daoId: string; memberAddress: string; index: string }[] {
   // Рассчитываем порог кворума
   const threshold = (quorumPercent * totalShares + 99n) / 100n;
@@ -198,7 +238,24 @@ function calculateShapleyShubikForDao(
   }));
 }
 
-// Обработка CSV без внешних библиотек
+// --- ОБРАБОТКА CSV И ЗАПУСК ---
+
+// Запрос SQLite
+// SELECT
+//     d.id AS dao_id,
+//     d.quorumPercent,
+//     d.totalShares,
+//     m.memberAddress,
+//     m.delegateShares AS voting_weight
+// FROM Dao d
+// JOIN Member m ON d.id = m.dao
+// -- Если нужны только участники с ненулевым весом: WHERE m.delegateShares > 0
+// ORDER BY dao_id, voting_weight DESC;
+
+/**
+ * Читает CSV файл, группирует данные по ДАО и запускает расчеты.
+ * @param filePath Путь к CSV файлу.
+ */
 async function processCsv(
   filePath: string
 ): Promise<{ [daoId: string]: { memberAddress: string; index: string }[] }> {
@@ -274,14 +331,16 @@ async function processCsv(
   return output;
 }
 
-// Пример использования
+// --- ТОЧКА ВХОДА ---
+
+// IEFY для запуска всего процесса.
 (async () => {
   try {
-    const results = await processCsv('/results/25.07.25/shapleyData.csv');
+    const results = await processCsv('results/25.07.25/shapleyData.csv');
 
     // Сохранение результатов в файл
     fs.writeFileSync(
-      '/results/25.07.25/shapley_shubik_results.json',
+      'results/25.07.25/shapley_shubik_results.json',
       JSON.stringify(results, null, 2)
     );
     console.log('Results saved to shapley_shubik_results.json');
