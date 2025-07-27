@@ -332,6 +332,31 @@ async function processCsv(
   return output;
 }
 
+function convertToCSV(data: {
+  [daoId: string]: {
+    memberAddress: string;
+    index: string;
+  }[];
+}): string {
+  // Заголовки CSV
+  const headers = ['daoId', 'memberAddress', 'index'];
+  const rows: string[] = [headers.join(',')];
+
+  // Проходим по всем daoId и их участникам
+  for (const [daoId, members] of Object.entries(data)) {
+    for (const member of members) {
+      // Экранируем значения на случай запятых и кавычек
+      const row = [daoId, member.memberAddress, member.index]
+        .map((value) => `"${String(value).replace(/"/g, '""')}"`)
+        .join(',');
+      rows.push(row);
+    }
+  }
+
+  // Собираем строки в один CSV
+  return rows.join('\n');
+}
+
 // --- ТОЧКА ВХОДА ---
 
 // IEFY для запуска всего процесса.
@@ -340,9 +365,13 @@ async function processCsv(
     const results = await processCsv('results/25.07.25/shapleyData.csv');
 
     // Сохранение результатов в файл
+    // fs.writeFileSync(
+    //   'results/25.07.25/shapley_shubik_results.json',
+    //   JSON.stringify(results, null, 2)
+    // );
     fs.writeFileSync(
-      'results/25.07.25/shapley_shubik_results.json',
-      JSON.stringify(results, null, 2)
+      'results/25.07.25/shapley_shubik_results.csv',
+      convertToCSV(results)
     );
     console.log('Results saved to shapley_shubik_results.json');
 
