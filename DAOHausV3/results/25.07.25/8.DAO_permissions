@@ -1,0 +1,8 @@
+"permissionsGroup","num_shamans"
+"Admin","18"
+"Admin + Manager","2"
+"Admin + Manager + Governance","29"
+"Governance","6"
+"Incorrect value (not checks in contracts)","1"
+"Manager","40"
+"No permission","1"
