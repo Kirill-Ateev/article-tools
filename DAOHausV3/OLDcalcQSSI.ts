@@ -87,6 +87,46 @@ function shuffle<T>(array: T[]): T[] {
 // --- ДЕТЕРМИНИРОВАННАЯ СИМУЛЯЦИЯ КВАНТОВОГО АЛГОРИТМА ---
 
 /**
+ * Симулирует работу квантового оракула O_{s,i}.
+ * Оракул проверяет, является ли коалиция S "помеченной".
+ * @param coalition Коалиция S для проверки.
+ * @param coalitionSize Размер коалиции |S|.
+ * @param pivotalPlayer Игрок i, для которого проверяется ключевая роль.
+ * @param s Требуемый размер коалиции для данного оракула.
+ * @param threshold Порог кворума T.
+ * @returns true, если состояние помечено, иначе false.
+ */
+function simulateQuantumOracle(
+  coalition: { voting_weight: bigint }[],
+  coalitionSize: number,
+  pivotalPlayer: { voting_weight: bigint },
+  s: number,
+  threshold: bigint
+): boolean {
+  // Условие 1: |S| == s
+  if (coalitionSize !== s) {
+    return false;
+  }
+
+  // Условие 2: weight(S) < T
+  const coalitionWeight = coalition.reduce(
+    (sum, member) => sum + member.voting_weight,
+    0n
+  );
+  if (coalitionWeight >= threshold) {
+    return false;
+  }
+
+  // Условие 3: weight(S) + weight(i) >= T
+  if (coalitionWeight + pivotalPlayer.voting_weight < threshold) {
+    return false;
+  }
+
+  // Все условия оракула выполнены
+  return true;
+}
+
+/**
  * Симулирует алгоритм квантового подсчета CountQuantum(O_{s,i}) через перебор
  * всего пространства состояний и фильтрацию по условиям оракула.
  * @returns Число M_{s,i} - количество ключевых коалиций размера s.
@@ -187,6 +227,60 @@ function calculateShapleyShubikWithQuantumFormula(
 }
 
 // --- ОСНОВНЫЕ ФУНКЦИИ РАСЧЕТА ---
+
+/**
+ * Точный расчет индекса Шепли-Шубика.
+ * @param members Массив участников с их весами.
+ * @param threshold Пороговое значение кворума.
+ * @returns Массив с рассчитанными индексами для каждого участника.
+ */
+function calculateExactShapleyShubik(
+  members: { memberAddress: string; voting_weight: bigint }[],
+  threshold: bigint
+): { memberAddress: string; index: string }[] {
+  const n = members.length;
+  const factorial = precomputeFactorials(n);
+  const results: { memberAddress: string; index: string }[] = [];
+
+  for (let i = 0; i < n; i++) {
+    const currentMember = members[i];
+    const otherMembers = members.filter((_, idx) => idx !== i);
+    const numOther = otherMembers.length;
+    let numerator = 0n;
+
+    // Перебор всех подмножеств
+    const totalSubsets = 1 << numOther;
+    for (let mask = 0; mask < totalSubsets; mask++) {
+      let subsetWeight = 0n;
+      let subsetSize = 0;
+
+      // Анализ текущего подмножества
+      for (let j = 0; j < numOther; j++) {
+        if (mask & (1 << j)) {
+          subsetWeight += otherMembers[j].voting_weight;
+          subsetSize++;
+        }
+      }
+
+      // Проверка ключевого участника
+      if (
+        subsetWeight < threshold &&
+        subsetWeight + currentMember.voting_weight >= threshold
+      ) {
+        numerator += factorial[subsetSize] * factorial[numOther - subsetSize];
+      }
+    }
+
+    // Расчет индекса
+    const indexValue = bigIntDivision(numerator, factorial[n]);
+    results.push({
+      memberAddress: currentMember.memberAddress,
+      index: indexValue,
+    });
+  }
+
+  return results;
+}
 
 /**
  * Аппроксимированный расчет индекса Шепли-Шубика методом Монте-Карло.
