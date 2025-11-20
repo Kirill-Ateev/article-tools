@@ -5,7 +5,7 @@
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "rootDir": "quorum/src",
+    "rootDir": "src",
     "outDir": "dist"
   }
 }
